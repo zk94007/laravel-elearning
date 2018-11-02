@@ -1,0 +1,4139 @@
+# Webalizer V2.21-02 Incremental Data - 07/26/2018 00:04:31
+2018 7 26 0 4 31
+4671 3437 140 1384 278 139 17880727 4068 193 0
+1 1 2893 1 26
+7 2 3950 6 6 5
+9 1 14440 4 1 1
+7 4 3880 5 5 5
+9 2 5984 6 6 5
+12 3 13002 5 11 5
+11 4 8124 8 7 6
+6 1 9052 4 3 3
+9 2 9348 7 5 5
+11 4 9706 4 6 4
+13 4 11730 10 9 7
+9 2 6444 5 5 3
+18 4 15967 12 11 7
+12 2 9504 3 11 3
+15 4 16904 8 8 6
+5 2 5532 3 3 3
+13 3 17018 11 7 7
+2971 2937 11794531 14 2662 15
+1011 118 2808614 8 931 6
+140 126 399729 18 117 40
+68 60 253149 23 52 27
+150 133 391679 12 134 9
+9 1 11544 5 6 4
+5 2 11124 3 2 2
+25 4 38953 10 9 6
+125 11 2007169 9 50 8
+1 1 3650 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+10 4 16549 7
+30 5 164719 16
+17 11 38575 16
+1015 124 2816776 933
+23 6 22636 16
+16 4 25584 8
+22 16 183427 18
+2904 2895 12961260 2620
+169 47 781300 74
+19 2 33096 4
+13 8 18569 8
+27 14 32416 17
+11 4 13778 4
+30 24 18538 24
+30 9 39105 16
+27 25 95480 23
+27 18 49268 23
+24 15 47529 18
+25 21 37172 21
+7 5 8998 6
+15 5 25489 12
+13 5 12359 8
+175 157 413888 157
+22 13 24216 19
+0
+0
+0
+3437
+0
+0
+0
+0
+0
+475
+0
+406
+163
+0
+1
+0
+0
+0
+0
+0
+1
+188
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/vendor/sebastian/diff/
+0 12 0 22404 2 1
+/vendor/symfony/debug/
+0 10 0 33930 0 0
+/vendor/league/
+0 15 0 12870 0 0
+/routes/web.php
+0 3 0 600 0 0
+/vendor/phpdocumentor/reflection-common/tests/unit/
+0 1 0 975 0 0
+/vendor/symfony/process/composer.json
+0 1 0 758 0 0
+/vendor/league/flysystem/src/Util.php
+0 1 0 0 0 0
+/resources/views/zb1/9.blade.php
+0 2 0 1230 0 0
+/vendor/sebastian/object-enumerator/tests/EnumeratorTest.php
+0 1 0 165 0 0
+/vendor/psr/log/Psr/Log/NullLogger.php
+0 1 0 139 0 0
+/vendor/symfony/console/Tests/Helper/
+0 1 0 3187 0 0
+/vendor/fzaninotto/
+0 15 0 12870 0 0
+/vendor/phpunit/php-code-coverage/src/Filter.php
+0 1 0 0 0 0
+/vendor/vlucas/phpdotenv/
+0 6 0 7692 0 0
+/vendor/phpunit/php-text-template/
+0 10 0 12960 0 0
+/error/
+0 21 0 36435 1 0
+/vendor/sebastian/object-enumerator/tests/Fixtures/
+0 1 0 985 0 0
+/vendor/sebastian/environment/src/Console.php
+0 1 0 0 0 0
+/resources/
+0 21 0 25641 1 0
+/vendor/sebastian/diff/src/Parser.php
+0 1 0 0 0 0
+/vendor/symfony/console/Descriptor/JsonDescriptor.php
+0 1 0 179 0 0
+/vendor/symfony/routing/RouteCompiler.php
+0 1 0 172 0 0
+/vendor/symfony/finder/Exception/
+0 5 0 5830 0 0
+/resources/lang/en/
+0 10 0 14990 0 0
+/vendor/symfony/event-dispatcher/Tests/EventTest.php
+0 1 0 157 0 0
+/vendor/nikic/php-parser/lib/PhpParser/
+0 1 0 7204 0 0
+/vendor/nikic/php-parser/UPGRADE-2.0.md
+0 2 0 5792 0 0
+/vendor/vlucas/
+0 11 0 9438 0 0
+/vendor/psy/psysh/bin/build-manual
+0 2 0 16254 0 0
+/vendor/phpunit/phpunit-mock-objects/phpunit.xml
+0 1 0 794 0 0
+/vendor/symfony/debug/Tests/MockExceptionHandler.php
+0 1 0 171 0 0
+/vendor/symfony/console/EventListener/
+0 5 0 4675 0 0
+/vendor/symfony/event-dispatcher/Tests/EventDispatcherTest.php
+0 1 0 208 0 0
+/vendor/phpunit/phpunit/phpunit.xml
+0 1 0 1213 0 0
+/resources/assets/fonts/FontAwesome.otf
+0 2 0 269616 0 0
+/vendor/symfony/finder/Comparator/DateComparator.php
+0 1 0 177 0 0
+/resources/assets/sass/app.scss
+0 2 0 402 0 0
+/vendor/symfony/console/Tester/
+0 5 0 5725 0 0
+/
+0 112 0 251224 94 33
+/vendor/swiftmailer/swiftmailer/doc/messages.rst
+0 1 0 42252 0 0
+/vendor/webmozart/assert/phpunit.xml.dist
+0 1 0 446 0 0
+/vendor/sebastian/global-state/src/RuntimeException.php
+0 1 0 177 0 0
+/vendor/symfony/console/Tests/Fixtures/
+0 1 0 29155 0 0
+/vendor/symfony/debug/BufferingLogger.php
+0 1 0 142 0 0
+/vendor/phpunit/php-code-coverage/src/Driver/
+0 1 0 1551 0 0
+/vendor/webmozart/assert/composer.json
+0 1 0 781 0 0
+/vendor/symfony/debug/Debug.php
+0 1 0 0 0 0
+/vendor/phpdocumentor/type-resolver/phpunit.xml.dist
+0 2 0 1606 0 0
+/resources/assets/fonts/fontawesome-webfont.woff
+0 2 0 196048 0 0
+/vendor/symfony/css-selector/XPath/Extension/
+0 1 0 2552 0 0
+/vendor/symfony/debug/Tests/Fixtures2/
+0 1 0 939 0 0
+/vendor/hamcrest/hamcrest-php/generator/StaticMethodFile.php
+0 1 0 149 0 0
+/vendor/symfony/console/Style/
+0 5 0 6735 0 0
+/vendor/league/flysystem/docs/plugins.md
+0 1 0 944 0 0
+/vendor/symfony/console/Question/ConfirmationQuestion.php
+0 1 0 179 0 0
+/vendor/dnoegel/php-xdg-base-dir/tests/
+0 6 0 5604 0 0
+/vendor/symfony/http-kernel/Event/
+0 1 0 2815 0 0
+/vendor/league/flysystem/docs/CNAME
+0 1 0 26 0 0
+/vendor/sebastian/comparator/tests/TypeComparatorTest.php
+0 1 0 162 0 0
+/vendor/league/flysystem/src/PluginInterface.php
+0 1 0 0 0 0
+/storage/framework/views/56aa4c9bc8ebe253247e397d703a3d0090154526.php
+0 2 0 1004 0 0
+/config/auth.php
+0 3 0 0 0 0
+/vendor/symfony/translation/Writer/
+0 1 0 941 0 0
+/vendor/psr/log/composer.json
+0 2 0 1122 0 0
+/resources/assets/js/
+0 10 0 8700 0 0
+/vendor/composer/autoload_namespaces.php
+0 2 0 0 0 0
+/vendor/jakub-onderka/php-console-highlighter/tests/JakubOnderka/
+0 1 0 1024 0 0
+/vendor/fzaninotto/faker/CONTRIBUTING.md
+0 2 0 5458 0 0
+/vendor/symfony/translation/Interval.php
+0 1 0 0 0 0
+/vendor/symfony/debug/CHANGELOG.md
+0 1 0 1252 0 0
+/vendor/fzaninotto/faker/test/
+0 6 0 7830 0 0
+/vendor/symfony/console/Formatter/OutputFormatterStyle.php
+0 1 0 206 0 0
+/vendor/doctrine/inflector/tests/
+0 6 0 5466 0 0
+/vendor/phpunit/phpunit-mock-objects/tests/MockBuilderTest.php
+0 1 0 167 0 0
+/vendor/phpunit/phpunit-mock-objects/src/Framework/
+0 1 0 965 0 0
+/vendor/symfony/translation/TranslatorBagInterface.php
+0 1 0 0 0 0
+/vendor/phpspec/prophecy/fixtures/
+0 8 0 38144 2 1
+/vendor/phpunit/phpunit/ChangeLog-5.1.md
+0 1 0 2721 0 0
+/resources/lang/en/passwords.php
+0 2 0 0 0 0
+/app/Exceptions/Handler.php
+0 2 0 290 0 0
+/vendor/symfony/css-selector/Tests/Parser/
+0 1 0 1774 0 0
+/app/Http/Controllers/Controller.php
+0 2 0 288 0 0
+/vendor/dnoegel/php-xdg-base-dir/src/
+0 6 0 5532 0 0
+/resources/views/zb1/13_2.blade.php
+0 2 0 5492 0 0
+/vendor/symfony/polyfill-mbstring/LICENSE
+0 1 0 1065 0 0
+/app/Transformation/QATransformer.php
+0 2 0 0 0 0
+/vendor/monolog/monolog/doc/
+0 6 0 10698 0 0
+/vendor/psy/psysh/LICENSE
+0 2 0 2172 1 1
+/vendor/league/flysystem/LICENSE
+0 2 0 2126 0 0
+/vendor/symfony/process/
+0 6 0 21612 0 0
+/vendor/symfony/console/Tester/ApplicationTester.php
+0 1 0 0 0 0
+/vendor/sebastian/comparator/src/ScalarComparator.php
+0 1 0 171 0 0
+/vendor/dnoegel/php-xdg-base-dir/phpunit.xml.dist
+0 2 0 1230 0 0
+/vendor/phpspec/prophecy/spec/Prophecy/Prophecy/RevealerSpec.php
+0 1 0 164 0 1
+/storage/framework/sessions/1Rr2gPOeeckdelUW478KbHae5Lhd0yXLBWJANfv2
+0 2 0 388 0 0
+/vendor/sebastian/diff/build.xml
+0 2 0 1564 0 0
+/vendor/sebastian/comparator/tests/DateTimeComparatorTest.php
+0 1 0 166 0 0
+/vendor/symfony/http-foundation/IpUtils.php
+0 1 0 0 0 0
+/storage/framework/views/fcd6355088112c21562aef4484fda557ba715ee1.php
+0 2 0 1508 0 0
+/vendor/symfony/console/Formatter/OutputFormatterStyleInterface.php
+0 1 0 0 0 0
+/vendor/phpunit/php-code-coverage/src/
+0 5 0 10625 0 0
+/vendor/psr/log/Psr/Log/InvalidArgumentException.php
+0 1 0 0 1 1
+/vendor/laravel/tinker/composer.json
+0 2 0 2062 0 0
+/vendor/monolog/monolog/
+0 10 0 20780 0 0
+/vendor/symfony/routing/DependencyInjection/
+0 1 0 959 0 0
+/vendor/symfony/console/Event/
+0 5 0 9165 0 0
+/storage/framework/views/4b48edbd81388908f4c24f2ed61ecd94f62c5012.php
+0 2 0 1450 0 0
+/vendor/paragonie/random_compat/lib/random_bytes_mcrypt.php
+0 1 0 0 0 0
+/vendor/swiftmailer/swiftmailer/doc/introduction.rst
+0 1 0 5607 0 0
+/vendor/symfony/routing/RequestContext.php
+0 1 0 0 0 0
+/vendor/phpunit/phpunit/ChangeLog-4.3.md
+0 1 0 2467 0 0
+/vendor/league/flysystem/src/File.php
+0 1 0 139 0 0
+/vendor/symfony/console/DependencyInjection/
+0 5 0 4815 0 0
+/resources/views/zb1/result2.blade.php
+0 2 0 818 0 0
+/vendor/symfony/event-dispatcher/DependencyInjection/RegisterListenersPass.php
+0 1 0 229 0 0
+/vendor/league/flysystem/docs/core-concepts.md
+0 1 0 1846 0 0
+/vendor/league/flysystem/src/FileNotFoundException.php
+0 1 0 158 0 0
+/vendor/symfony/debug/Exception/UndefinedMethodException.php
+0 1 0 192 0 0
+/vendor/sebastian/diff/tests/fixtures/
+0 1 0 1120 0 0
+/vendor/monolog/monolog/tests/Monolog/
+0 1 0 2398 0 0
+/vendor/symfony/http-foundation/FileBag.php
+0 1 0 167 0 0
+/storage/framework/testing/
+0 10 0 6920 0 0
+/vendor/symfony/routing/Exception/
+0 1 0 2151 0 0
+/vendor/phpunit/php-file-iterator/src/Factory.php
+0 1 0 0 0 0
+/vendor/psr/log/Psr/Log/LoggerTrait.php
+0 1 0 0 0 0
+/vendor/symfony/finder/Iterator/FilenameFilterIterator.php
+0 1 0 197 0 0
+/vendor/symfony/event-dispatcher/Debug/TraceableEventDispatcherInterface.php
+0 1 0 217 0 0
+/vendor/psy/psysh/test/tools/
+0 1 0 1106 0 0
+/vendor/sebastian/recursion-context/src/InvalidArgumentException.php
+0 1 0 195 0 0
+/vendor/dnoegel/php-xdg-base-dir/
+0 10 0 17010 0 0
+/vendor/symfony/debug/Tests/FatalErrorHandler/
+0 1 0 1525 0 0
+/vendor/sebastian/environment/LICENSE
+0 2 0 3092 0 0
+/vendor/symfony/event-dispatcher/Tests/AbstractEventDispatcherTest.php
+0 1 0 175 0 0
+/vendor/symfony/console/Input/ArrayInput.php
+0 1 0 160 0 0
+/vendor/phpunit/php-token-stream/LICENSE
+0 1 0 1550 0 0
+/vendor/phpunit/php-token-stream/tests/TokenTest.php
+0 1 0 157 0 0
+/vendor/symfony/translation/Translator.php
+0 1 0 174 0 0
+/vendor/fzaninotto/faker/src/
+0 6 0 6606 0 0
+/config/cache.php
+0 3 0 639 0 0
+/vendor/doctrine/instantiator/src/
+0 6 0 5496 0 0
+/vendor/symfony/translation/Loader/
+0 1 0 3944 0 0
+/resources/views/zb1/10.blade.php
+0 2 0 1236 0 0
+/vendor/sebastian/diff/tests/ChunkTest.php
+0 1 0 147 0 0
+/vendor/symfony/console/Output/ConsoleOutputInterface.php
+0 1 0 188 0 0
+/vendor/symfony/console/Application.php
+0 1 0 0 0 0
+/vendor/symfony/console/Output/ConsoleOutput.php
+0 1 0 172 0 0
+/vendor/swiftmailer/swiftmailer/doc/including-the-files.rst
+0 1 0 1583 0 0
+/vendor/symfony/var-dumper/composer.json
+0 1 0 1244 0 0
+/vendor/symfony/console/Helper/TableCell.php
+0 1 0 0 0 0
+/vendor/jakub-onderka/php-console-highlighter/LICENSE
+0 2 0 2158 0 0
+/vendor/symfony/console/Input/InputDefinition.php
+0 1 0 0 0 0
+/vendor/myclabs/deep-copy/doc/clone.png
+0 2 0 24760 0 0
+/vendor/nikic/php-parser/UPGRADE-3.0.md
+0 2 0 14564 0 0
+/vendor/symfony/console/Input/InputInterface.php
+0 1 0 0 0 0
+/vendor/swiftmailer/swiftmailer/tests/acceptance/
+0 1 0 948 0 0
+/vendor/symfony/http-foundation/AcceptHeader.php
+0 1 0 0 0 0
+/resources/lang/en/pagination.php
+0 2 0 0 0 0
+/vendor/psr/log/Psr/Log/LoggerAwareInterface.php
+0 1 0 0 1 0
+/vendor/phpdocumentor/reflection-common/tests/common/
+0 1 0 979 0 0
+/vendor/phpspec/prophecy/fixtures/Named.php
+0 2 0 0 1 0
+/vendor/symfony/http-foundation/ApacheRequest.php
+0 1 0 168 0 0
+/vendor/symfony/finder/Iterator/FilecontentFilterIterator.php
+0 1 0 200 0 0
+/vendor/symfony/event-dispatcher/EventSubscriberInterface.php
+0 1 0 0 0 0
+/vendor/symfony/http-foundation/BinaryFileResponse.php
+0 1 0 174 0 0
+/vendor/paragonie/random_compat/lib/random.php
+0 1 0 0 0 0
+/vendor/symfony/css-selector/Exception/ExceptionInterface.php
+0 1 0 0 0 0
+/vendor/symfony/console/Helper/ProgressIndicator.php
+0 1 0 0 0 0
+/vendor/mtdowling/cron-expression/tests/Cron/
+0 1 0 2749 0 0
+/vendor/symfony/debug/Resources/
+0 5 0 4470 0 0
+/vendor/mtdowling/cron-expression/CHANGELOG.md
+0 2 0 2140 0 0
+/vendor/ramsey/uuid/src/UuidInterface.php
+0 1 0 0 0 0
+/vendor/nikic/php-parser/test_old/
+0 6 0 6702 0 0
+/vendor/
+0 21 0 138327 1 1
+/vendor/phpunit/phpunit/phpunit.xsd
+0 1 0 12918 0 0
+/vendor/league/flysystem/src/Plugin/
+0 1 0 2864 0 0
+/config/mail.php
+0 4 0 844 1 1
+/vendor/symfony/http-foundation/Exception/ConflictingHeadersException.php
+0 1 0 224 0 0
+/vendor/sebastian/recursion-context/src/Context.php
+0 1 0 0 0 0
+/vendor/bin/
+0 15 0 18585 0 0
+/vendor/sebastian/object-enumerator/LICENSE
+0 2 0 3094 0 1
+/vendor/laravel/tinker/src/TinkerCaster.php
+0 1 0 0 0 0
+/vendor/mockery/mockery/travis/after_success.sh
+0 2 0 428 0 0
+/vendor/symfony/translation/Dumper/
+0 1 0 3315 0 0
+/vendor/symfony/css-selector/Tests/Node/
+0 1 0 3172 0 0
+/vendor/symfony/console/Command/
+0 5 0 7755 0 0
+/vendor/phpdocumentor/reflection-docblock/
+0 11 0 25762 1 0
+/vendor/symfony/http-kernel/CHANGELOG.md
+0 1 0 6660 0 0
+/storage/framework/views/2cd16a647c83e192921c129dba2ee2a41c34b29e.php
+0 2 0 934 0 0
+/vendor/symfony/yaml/phpunit.xml.dist
+0 1 0 831 0 0
+/vendor/symfony/event-dispatcher/EventDispatcherInterface.php
+0 1 0 0 0 0
+/vendor/symfony/css-selector/CHANGELOG.md
+0 1 0 198 0 0
+/vendor/hamcrest/hamcrest-php/generator/run.php
+0 1 0 527 0 0
+/vendor/ramsey/uuid/src/Provider/
+0 1 0 1555 0 0
+/vendor/fzaninotto/faker/Makefile
+0 2 0 450 0 0
+/vendor/tijsverkoyen/css-to-inline-styles/src/
+0 1 0 1166 0 0
+/vendor/phpdocumentor/reflection-common/LICENSE
+0 3 0 3243 0 0
+/bootstrap/
+0 22 0 27214 1 1
+/vendor/symfony/event-dispatcher/Debug/TraceableEventDispatcher.php
+0 1 0 223 0 0
+/vendor/symfony/css-selector/Node/ClassNode.php
+0 1 0 173 0 0
+/vendor/psy/psysh/bin/build
+0 2 0 390 1 0
+/vendor/symfony/http-foundation/Tests/
+0 5 0 28820 0 0
+/vendor/hamcrest/hamcrest-php/generator/FactoryParameter.php
+0 1 0 0 0 0
+/vendor/symfony/console/composer.json
+0 1 0 1370 0 0
+/vendor/symfony/routing/
+0 6 0 30744 0 0
+/storage/framework/views/
+0 10 0 93280 0 0
+/resources/views/zb1/13.blade.php
+0 2 0 6590 0 0
+/vendor/symfony/debug/Exception/UndefinedFunctionException.php
+0 1 0 194 0 0
+/vendor/symfony/css-selector/Exception/
+0 5 0 9360 0 0
+/vendor/paragonie/random_compat/composer.json
+0 2 0 1794 0 0
+/vendor/symfony/css-selector/Exception/ExpressionErrorException.php
+0 1 0 200 0 0
+/config/services.php
+0 3 0 657 0 0
+/vendor/ramsey/uuid/src/BinaryUtils.php
+0 1 0 0 0 0
+/vendor/phpunit/php-token-stream/tests/
+0 5 0 7690 0 0
+/vendor/swiftmailer/swiftmailer/lib/mime_types.php
+0 2 0 0 0 0
+/vendor/ramsey/uuid/src/Generator/
+0 1 0 3687 0 0
+/vendor/mockery/mockery/examples/starship/
+0 1 0 1565 0 0
+/app/Http/Controllers/Auth/RegisterController.php
+0 1 0 159 0 0
+/vendor/erusev/parsedown/test/bootstrap.php
+0 1 0 360 0 0
+/vendor/jakub-onderka/php-console-color/example.php
+0 2 0 1078 0 0
+/vendor/erusev/parsedown/
+0 10 0 17060 0 0
+/vendor/hamcrest/hamcrest-php/generator/parts/
+0 1 0 2272 0 0
+/vendor/dnoegel/php-xdg-base-dir/composer.json
+0 2 0 744 0 0
+/vendor/phpunit/php-code-coverage/LICENSE
+0 1 0 1551 0 0
+/vendor/phpunit/php-code-coverage/src/Node/
+0 1 0 1773 0 0
+/vendor/symfony/console/Tests/Output/
+0 1 0 1597 0 0
+/vendor/mtdowling/cron-expression/LICENSE
+0 2 0 2196 0 0
+/vendor/nikic/
+0 16 0 13728 0 0
+/vendor/phpdocumentor/reflection-common/src/
+0 6 0 11862 0 0
+/vendor/league/flysystem/docs/recipes.md
+0 1 0 2165 0 0
+/vendor/phpunit/phpunit/ChangeLog-5.3.md
+0 1 0 2564 0 0
+/vendor/phpdocumentor/reflection-common/src/Project.php
+0 1 0 0 0 0
+/storage/framework/views/723d6298cb0ae7c1a123a6a9a4d25d90ba8b5657.php
+0 2 0 1454 0 0
+/vendor/ramsey/uuid/src/UuidFactory.php
+0 1 0 154 0 0
+/vendor/laravel/framework/src/
+0 6 0 5448 0 0
+/vendor/sebastian/exporter/composer.json
+0 1 0 1162 0 0
+/vendor/phpspec/prophecy/fixtures/ModifierInterface.php
+0 2 0 0 0 0
+/vendor/monolog/monolog/src/Monolog/
+0 1 0 1940 0 0
+/vendor/doctrine/
+0 15 0 16035 0 0
+/vendor/webmozart/assert/CHANGELOG.md
+0 1 0 658 0 0
+/vendor/fzaninotto/faker/phpunit.xml.dist
+0 2 0 530 0 0
+/vendor/symfony/routing/RouteCollectionBuilder.php
+0 1 0 0 0 0
+/vendor/phpdocumentor/reflection-docblock/tests/unit/
+0 1 0 1414 0 0
+/database/seeds/DatabaseSeeder.php
+0 2 0 276 0 0
+/vendor/symfony/http-foundation/File/File.php
+0 1 0 0 0 0
+/vendor/symfony/translation/Tests/
+0 1 0 4162 0 0
+/vendor/symfony/finder/Iterator/PathFilterIterator.php
+0 1 0 193 0 0
+/resources/views/zb1/16.blade.php
+0 2 0 5312 0 0
+/vendor/symfony/console/Event/ConsoleErrorEvent.php
+0 1 0 174 0 0
+/vendor/sebastian/version/composer.json
+0 1 0 705 0 0
+/vendor/psr/log/LICENSE
+0 2 0 2170 0 0
+/vendor/bin/php-parse
+0 2 0 12196 0 0
+/storage/framework/sessions/
+0 10 0 9560 0 0
+/vendor/nikic/php-parser/test/
+0 6 0 7824 0 0
+/vendor/phpunit/phpunit/ChangeLog-4.5.md
+0 1 0 1241 0 0
+/config/session.php
+0 3 0 651 0 0
+/vendor/phpdocumentor/type-resolver/phpmd.xml.dist
+0 2 0 1690 0 0
+/vendor/phpdocumentor/reflection-common/src/File.php
+0 1 0 0 0 0
+/vendor/symfony/console/Helper/FormatterHelper.php
+0 1 0 168 0 0
+/vendor/phpunit/phpunit/tests/Fail/
+0 1 0 919 0 0
+/storage/framework/views/5ed240fa97342be9f4878cb2bfa67fee7057a10e.php
+0 2 0 1116 0 0
+/vendor/phpspec/prophecy/src/Prophecy/
+0 1 0 3124 0 0
+/vendor/symfony/console/Input/
+0 5 0 14325 0 1
+/resources/views/zb1/Abschlusseite.blade.php
+0 2 0 2716 0 0
+/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php
+0 1 0 197 0 0
+/vendor/phpunit/phpunit/tests/_files/
+0 1 0 35523 0 0
+/vendor/jakub-onderka/php-console-color/tests/
+0 6 0 6996 0 0
+/vendor/swiftmailer/swiftmailer/lib/swift_required_pear.php
+0 1 0 519 0 0
+/vendor/mtdowling/cron-expression/src/Cron/
+0 1 0 2889 0 0
+/vendor/paragonie/random_compat/dist/
+0 6 0 7164 0 0
+/vendor/symfony/console/Resources/bin/
+0 1 0 940 0 0
+/vendor/sebastian/global-state/src/Blacklist.php
+0 1 0 0 0 0
+/vendor/webmozart/assert/appveyor.yml
+0 1 0 1388 0 0
+/vendor/sebastian/object-enumerator/build.xml
+0 1 0 859 0 0
+/vendor/symfony/yaml/composer.json
+0 1 0 918 0 0
+/vendor/phpunit/php-token-stream/src/Token/
+0 1 0 1139 0 0
+/vendor/phpspec/prophecy/LICENSE
+0 3 0 3447 1 0
+/vendor/phpspec/prophecy/fixtures/WithStaticMethod.php
+0 2 0 0 0 0
+/vendor/vlucas/phpdotenv/composer.json
+0 1 0 719 0 0
+/storage/framework/views/d77fb5b2feaf2d194be9d5e470a9831046f06a31.php
+0 2 0 7232 0 0
+/vendor/erusev/parsedown/test/TestParsedown.php
+0 1 0 134 0 0
+/vendor/sebastian/resource-operations/build/generate.php
+0 1 0 533 0 0
+/vendor/sebastian/comparator/tests/ArrayComparatorTest.php
+0 1 0 163 0 0
+/vendor/symfony/console/Input/InputArgument.php
+0 1 0 0 0 0
+/vendor/symfony/http-kernel/HttpKernel.php
+0 1 0 173 0 0
+/vendor/sebastian/recursion-context/composer.json
+0 1 0 844 0 0
+/vendor/symfony/console/Helper/ProcessHelper.php
+0 1 0 166 0 0
+/vendor/phpunit/phpunit-mock-objects/tests/
+0 5 0 11130 0 0
+/vendor/tijsverkoyen/css-to-inline-styles/phpunit.xml.dist
+0 1 0 575 0 0
+/vendor/laravel/framework/composer.json
+0 2 0 9912 0 0
+/vendor/symfony/console/Logger/
+0 5 0 4605 0 0
+/vendor/symfony/console/Descriptor/
+0 5 0 11315 0 0
+/vendor/symfony/http-foundation/RequestMatcherInterface.php
+0 1 0 0 0 0
+/vendor/league/flysystem/src/NotSupportedException.php
+0 1 0 0 0 0
+/vendor/sebastian/diff/src/Diff.php
+0 1 0 0 0 0
+/vendor/symfony/var-dumper/Test/
+0 1 0 936 0 0
+/vendor/symfony/finder/Comparator/NumberComparator.php
+0 1 0 179 0 0
+/vendor/symfony/var-dumper/Resources/
+0 1 0 921 0 0
+/database/migrations/2014_10_12_100000_create_password_resets_table.php
+0 2 0 378 0 0
+/vendor/sebastian/comparator/build/travis-ci.xml
+0 1 0 397 0 0
+/vendor/mockery/mockery/docs/getting_started/
+0 1 0 1767 0 0
+/vendor/phpunit/
+0 15 0 32190 0 0
+/vendor/symfony/routing/LICENSE
+0 1 0 1065 0 0
+/vendor/symfony/http-foundation/StreamedResponse.php
+0 1 0 172 0 0
+/vendor/sebastian/environment/tests/
+0 5 0 5725 0 0
+/vendor/laravel/tinker/src/
+0 6 0 8034 0 0
+/storage/framework/views/42f41e15c5857c6422c859c432835020995d6836.php
+0 2 0 850 0 0
+/vendor/sebastian/object-enumerator/src/InvalidArgumentException.php
+0 1 0 195 0 0
+/vendor/league/flysystem/docs/upgrade-to-1.0.0.md
+0 1 0 1487 0 0
+/vendor/phpspec/prophecy/tests/
+0 6 0 5418 0 0
+/storage/framework/views/5b66f9fd93e6a11686d3734f2e42f2bb26808802.php
+0 2 0 1450 0 0
+/vendor/symfony/finder/composer.json
+0 1 0 755 0 0
+/vendor/phpdocumentor/reflection-common/phpunit.xml.dist
+0 2 0 1672 0 0
+/vendor/laravel/framework/LICENSE.md
+0 2 0 2150 0 0
+/vendor/mockery/
+0 16 0 13696 0 0
+/vendor/sebastian/resource-operations/
+0 11 0 18656 0 0
+/vendor/symfony/http-foundation/ParameterBag.php
+0 1 0 0 0 0
+/vendor/symfony/css-selector/Parser/Token.php
+0 1 0 0 0 0
+/vendor/sebastian/global-state/src/
+0 5 0 9920 0 0
+/vendor/symfony/finder/Iterator/SortableIterator.php
+0 1 0 0 0 0
+/vendor/symfony/console/ConsoleEvents.php
+0 1 0 0 0 0
+/vendor/sebastian/object-enumerator/composer.json
+0 1 0 793 0 0
+/vendor/phpunit/php-timer/src/Timer.php
+0 1 0 0 0 0
+/vendor/symfony/process/Tests/
+0 1 0 2993 0 0
+/vendor/symfony/event-dispatcher/Event.php
+0 1 0 0 0 0
+/vendor/phpunit/php-token-stream/composer.json
+0 1 0 812 0 0
+/vendor/phpunit/php-token-stream/tests/_fixture/
+0 1 0 4458 0 0
+/vendor/symfony/var-dumper/
+0 6 0 18552 0 0
+/vendor/mockery/mockery/package.xml
+0 2 0 24440 0 0
+/vendor/sebastian/comparator/tests/MockObjectComparatorTest.php
+0 1 0 168 0 0
+/vendor/sebastian/comparator/build.xml
+0 1 0 1014 0 0
+/vendor/dnoegel/php-xdg-base-dir/LICENSE
+0 2 0 2114 0 0
+/vendor/phpspec/prophecy/fixtures/WithFinalVirtuallyPrivateMethod.php
+0 2 0 0 0 1
+/vendor/symfony/http-kernel/Fragment/
+0 1 0 2603 0 0
+/vendor/sebastian/global-state/src/CodeExporter.php
+0 1 0 0 0 0
+/vendor/symfony/console/Formatter/OutputFormatter.php
+0 1 0 196 0 0
+/vendor/symfony/http-foundation/RedirectResponse.php
+0 1 0 172 0 0
+/vendor/symfony/debug/FatalErrorHandler/FatalErrorHandlerInterface.php
+0 1 0 0 0 0
+/resources/assets/sass/
+0 10 0 10930 0 0
+/vendor/sebastian/code-unit-reverse-lookup/ChangeLog.md
+0 2 0 466 0 0
+/vendor/sebastian/code-unit-reverse-lookup/tests/WizardTest.php
+0 1 0 168 0 0
+/vendor/symfony/debug/ErrorHandler.php
+0 1 0 0 0 0
+/vendor/symfony/var-dumper/VarDumper.php
+0 1 0 0 0 0
+/vendor/phpunit/phpunit/src/Framework/
+0 1 0 8791 0 0
+/vendor/symfony/debug/Exception/OutOfMemoryException.php
+0 1 0 188 0 0
+/vendor/erusev/
+0 15 0 12870 0 0
+/vendor/laravel/framework/
+0 10 0 12860 0 0
+/vendor/phpunit/phpunit/ChangeLog-5.5.md
+0 1 0 2854 0 0
+/vendor/symfony/polyfill-mbstring/Resources/
+0 1 0 938 0 0
+/vendor/nikic/php-parser/grammar/parser.template
+0 1 0 2202 0 0
+/vendor/symfony/console/Descriptor/MarkdownDescriptor.php
+0 1 0 183 0 0
+/vendor/league/flysystem/docs/_data/
+0 1 0 1325 0 0
+/vendor/symfony/event-dispatcher/ContainerAwareEventDispatcher.php
+0 1 0 194 0 0
+/vendor/symfony/yaml/Dumper.php
+0 1 0 0 0 0
+/vendor/erusev/parsedown/test/
+0 6 0 10518 0 0
+/vendor/symfony/event-dispatcher/DependencyInjection/
+0 5 0 4950 0 0
+/vendor/league/flysystem/src/Util/
+0 1 0 1372 0 0
+/vendor/doctrine/inflector/lib/Doctrine/
+0 1 0 925 0 0
+/error/error.png
+0 5 0 16035 0 0
+/vendor/sebastian/comparator/src/ExceptionComparator.php
+0 1 0 180 0 0
+/vendor/symfony/css-selector/XPath/XPathExpr.php
+0 1 0 0 0 0
+/vendor/phpspec/prophecy/composer.json
+0 2 0 2674 0 0
+/vendor/hamcrest/hamcrest-php/LICENSE.txt
+0 1 0 1482 0 0
+/vendor/nikic/php-parser/test/PhpParser/
+0 1 0 5163 0 0
+/vendor/sebastian/comparator/src/ArrayComparator.php
+0 1 0 170 0 0
+/vendor/phpunit/php-timer/tests/
+0 5 0 4585 0 0
+/vendor/symfony/finder/Iterator/DateRangeFilterIterator.php
+0 1 0 186 0 0
+/vendor/sebastian/recursion-context/tests/
+0 5 0 4755 0 0
+/storage/framework/views/92c14713e2ef7d200c735001211579ee7d952e9e.php
+0 2 0 934 0 0
+/vendor/psy/psysh/test/fixtures/
+0 1 0 2110 0 0
+/vendor/phpunit/phpunit/tests/Framework/
+0 1 0 2682 0 0
+/vendor/phpunit/phpunit/ChangeLog-4.7.md
+0 1 0 3001 0 0
+/vendor/symfony/debug/Resources/ext/
+0 1 0 1744 0 0
+/vendor/symfony/console/Event/ConsoleTerminateEvent.php
+0 1 0 178 0 0
+/vendor/erusev/parsedown/composer.json
+0 2 0 956 0 0
+/vendor/symfony/css-selector/CssSelectorConverter.php
+0 1 0 0 0 0
+/vendor/phpunit/php-code-coverage/tests/bootstrap.php
+0 1 0 539 0 0
+/vendor/monolog/monolog/doc/01-usage.md
+0 1 0 8476 0 0
+/vendor/symfony/event-dispatcher/Debug/
+0 5 0 7220 0 0
+/resources/views/zb1/1.blade.php
+0 2 0 1232 0 0
+/vendor/swiftmailer/swiftmailer/tests/IdenticalBinaryConstraint.php
+0 1 0 173 0 0
+/resources/assets/img/paper_bkg.png
+0 2 0 163928 0 0
+/vendor/swiftmailer/swiftmailer/
+0 12 0 27408 1 0
+/vendor/psy/psysh/bin/package
+0 2 0 2024 0 0
+/vendor/sebastian/recursion-context/build.xml
+0 1 0 819 0 0
+/vendor/symfony/debug/DebugClassLoader.php
+0 1 0 0 0 0
+/vendor/symfony/console/Command/LockableTrait.php
+0 1 0 0 0 0
+/vendor/jakub-onderka/
+0 15 0 16755 0 0
+/vendor/jakub-onderka/php-console-highlighter/tests/
+0 6 0 7104 0 0
+/vendor/hamcrest/
+0 15 0 13020 0 0
+/vendor/phpunit/php-code-coverage/tests/
+0 5 0 7675 0 0
+/vendor/sebastian/environment/src/Runtime.php
+0 1 0 0 1 0
+/storage/app/public/results.csv
+0 2 0 1026 0 0
+/vendor/symfony/http-kernel/
+0 6 0 39948 0 0
+/vendor/bin/phpunit
+0 2 0 2556 0 0
+/vendor/phpspec/prophecy/fixtures/OptionalDepsClass.php
+0 2 0 0 0 0
+/config/
+0 21 0 60228 1 0
+/vendor/laravel/tinker/LICENSE.txt
+0 1 0 1077 0 0
+/resources/lang/en/validation.php
+0 2 0 0 0 0
+/vendor/symfony/console/Exception/CommandNotFoundException.php
+0 1 0 199 0 0
+/vendor/symfony/yaml/Unescaper.php
+0 1 0 0 0 0
+/vendor/symfony/process/ExecutableFinder.php
+0 1 0 0 0 0
+/vendor/sebastian/environment/phpunit.xml
+0 3 0 2226 0 0
+/resources/assets/fonts/fontawesome-webfont.eot
+0 2 0 331484 0 0
+/vendor/phpspec/prophecy/fixtures/WithTypehintedVariadicArgument.php
+0 2 0 0 0 0
+/vendor/paragonie/random_compat/lib/error_polyfill.php
+0 1 0 0 0 0
+/vendor/sebastian/global-state/tests/_fixture/
+0 1 0 2550 0 0
+/vendor/jakub-onderka/php-console-highlighter/build.xml
+0 1 0 3927 0 0
+/vendor/symfony/finder/Iterator/FilterIterator.php
+0 1 0 0 0 0
+/vendor/league/flysystem/src/UnreadableFileException.php
+0 1 0 160 0 0
+/vendor/phpspec/
+0 16 0 13728 0 0
+/vendor/symfony/console/Helper/Helper.php
+0 1 0 172 0 0
+/vendor/jakub-onderka/php-console-color/build.xml
+0 1 0 3908 0 0
+/vendor/symfony/console/Tests/Command/
+0 1 0 1601 0 0
+/vendor/swiftmailer/swiftmailer/tests/
+0 5 0 17485 0 0
+/vendor/sebastian/diff/LICENSE
+0 2 0 3098 1 1
+/vendor/phpdocumentor/type-resolver/examples/03-resolving-all-elements.php
+0 1 0 439 0 0
+/vendor/phpdocumentor/reflection-common/src/Fqsen.php
+0 1 0 0 0 0
+/vendor/phpdocumentor/reflection-docblock/examples/
+0 6 0 11772 0 0
+/vendor/symfony/console/Helper/HelperSet.php
+0 1 0 0 0 0
+/vendor/phpdocumentor/reflection-docblock/examples/01-interpreting-a-simple-docblock.php
+0 1 0 641 0 0
+/vendor/symfony/http-foundation/RequestStack.php
+0 1 0 0 0 0
+/resources/views/zb1/4.blade.php
+0 2 0 1222 0 0
+/vendor/symfony/console/Command/Command.php
+0 1 0 0 0 0
+/vendor/phpdocumentor/type-resolver/src/FqsenResolver.php
+0 1 0 0 0 0
+/vendor/nikic/php-parser/grammar/php7.y
+0 1 0 44970 0 0
+/vendor/symfony/event-dispatcher/Tests/ImmutableEventDispatcherTest.php
+0 1 0 176 0 0
+/vendor/symfony/console/phpunit.xml.dist
+0 1 0 1211 0 0
+/vendor/paragonie/random_compat/other/
+0 6 0 5622 0 0
+/vendor/nikic/php-parser/doc/
+0 8 0 15080 1 1
+/vendor/ramsey/uuid/src/Uuid.php
+0 1 0 140 0 0
+/database/factories/ModelFactory.php
+0 2 0 760 0 0
+/vendor/nikic/php-parser/composer.json
+0 2 0 1236 0 0
+/vendor/phpunit/php-token-stream/build/
+0 5 0 4655 0 0
+/vendor/hamcrest/hamcrest-php/tests/bootstrap.php
+0 1 0 523 0 0
+/vendor/psy/psysh/src/
+0 5 0 4350 0 0
+/vendor/league/flysystem/src/
+0 6 0 33918 0 0
+/vendor/sebastian/comparator/tests/autoload.php
+0 1 0 0 0 0
+/vendor/phpdocumentor/type-resolver/
+0 11 0 23342 0 1
+/vendor/symfony/css-selector/Tests/
+0 5 0 7675 0 0
+/storage/framework/views/e6dc7026277b8d3b1c890dde9ff679ff7ce2df5e.php
+0 2 0 826 0 0
+/vendor/symfony/yaml/Tests/
+0 1 0 2152 0 0
+/vendor/jakub-onderka/php-console-color/src/
+0 6 0 5724 0 0
+/vendor/symfony/http-foundation/AcceptHeaderItem.php
+0 1 0 0 0 0
+/vendor/paragonie/random_compat/other/build_phar.php
+0 1 0 580 0 0
+/vendor/symfony/finder/
+0 10 0 29130 0 0
+/vendor/mockery/mockery/travis/
+0 7 0 12117 1 1
+/vendor/phpunit/php-text-template/src/Template.php
+0 1 0 0 0 0
+/vendor/mtdowling/cron-expression/
+0 10 0 16970 0 0
+/resources/assets/img/logo.png
+0 3 0 33393 0 0
+/vendor/mockery/mockery/travis/extra.ini
+0 2 0 90 0 0
+/vendor/hamcrest/hamcrest-php/generator/
+0 6 0 17184 0 0
+/app/Providers/
+0 15 0 27090 0 0
+/vendor/symfony/translation/PluralizationRules.php
+0 1 0 0 0 0
+/resources/views/zb1/7.blade.php
+0 2 0 3154 0 0
+/vendor/swiftmailer/swiftmailer/doc/headers.rst
+0 1 0 22234 0 0
+/vendor/phpunit/phpunit/tests/bootstrap.php
+0 1 0 499 0 0
+/resources/assets/scss/
+0 10 0 6830 0 0
+/vendor/phpunit/phpunit-mock-objects/src/
+0 5 0 4695 0 0
+/vendor/symfony/css-selector/Exception/SyntaxErrorException.php
+0 1 0 196 0 0
+/vendor/symfony/http-kernel/HttpCache/
+0 1 0 2673 0 0
+/vendor/phpunit/php-file-iterator/src/Iterator.php
+0 1 0 0 0 0
+/vendor/phpunit/phpunit/ChangeLog-5.7.md
+0 1 0 9401 0 0
+/vendor/webmozart/assert/LICENSE
+0 1 0 1084 0 0
+/vendor/fzaninotto/faker/test/documentor.php
+0 1 0 511 0 0
+/vendor/sebastian/
+0 12 0 33012 0 0
+/vendor/ramsey/uuid/src/DegradedUuid.php
+0 1 0 135 0 0
+/vendor/ramsey/uuid/
+0 10 0 19030 0 0
+/vendor/jakub-onderka/php-console-color/tests/bootstrap.php
+0 1 0 573 0 0
+/vendor/sebastian/comparator/src/MockObjectComparator.php
+0 1 0 181 0 0
+/app/Http/Controllers/Auth/LoginController.php
+0 1 0 155 0 0
+/vendor/mtdowling/
+0 15 0 13140 0 0
+/vendor/phpdocumentor/reflection-docblock/composer.json
+0 2 0 1718 0 0
+/app/DTO/
+0 15 0 18780 0 0
+/vendor/jakub-onderka/php-console-highlighter/examples/whole_file.php
+0 1 0 601 0 0
+/vendor/hamcrest/hamcrest-php/tests/Hamcrest/
+0 1 0 3434 0 0
+/vendor/symfony/http-foundation/phpunit.xml.dist
+0 1 0 892 0 0
+/vendor/ramsey/uuid/CONTRIBUTING.md
+0 1 0 4362 0 0
+/vendor/symfony/debug/Tests/HeaderMock.php
+0 1 0 0 0 0
+/vendor/phpdocumentor/reflection-docblock/phpunit.xml.dist
+0 2 0 1806 0 0
+/vendor/composer/autoload_real.php
+0 2 0 0 0 0
+/vendor/symfony/process/CHANGELOG.md
+0 1 0 1516 0 0
+/config/queue.php
+0 3 0 639 0 0
+/vendor/symfony/var-dumper/Cloner/
+0 1 0 2178 0 0
+/vendor/symfony/css-selector/Parser/Parser.php
+0 1 0 181 0 0
+/vendor/nesbot/carbon/readme.md
+0 2 0 5358 0 0
+/storage/framework/views/b1232d8aa6babefb1353079c6beb5c5bbf2a63ba.php
+0 2 0 934 0 0
+/vendor/phpunit/phpunit-mock-objects/build/
+0 5 0 4735 0 0
+/vendor/symfony/console/Helper/DescriptorHelper.php
+0 1 0 169 0 0
+/vendor/symfony/routing/phpunit.xml.dist
+0 1 0 834 0 0
+/database/
+0 21 0 25977 1 0
+/vendor/sebastian/global-state/tests/BlacklistTest.php
+0 1 0 159 0 0
+/vendor/phpunit/php-file-iterator/composer.json
+0 1 0 878 0 0
+/resources/views/zb1/vorwort.blade.php
+0 2 0 7762 0 0
+/vendor/nikic/php-parser/grammar/tokens.template
+0 1 0 298 0 0
+/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest.php
+0 1 0 0 0 0
+/vendor/nikic/php-parser/grammar/php5.y
+0 1 0 49819 0 0
+/vendor/symfony/translation/Command/
+0 1 0 941 0 0
+/vendor/symfony/http-foundation/Response.php
+0 1 0 0 0 0
+/vendor/phpunit/phpunit/src/Exception.php
+0 1 0 0 0 0
+/vendor/sebastian/resource-operations/build.xml
+0 1 0 763 0 0
+/app/User.php
+0 4 0 488 1 0
+/vendor/hamcrest/hamcrest-php/TODO.txt
+0 1 0 561 0 0
+/storage/app/public/
+0 11 0 11880 1 0
+/vendor/sebastian/diff/tests/DiffTest.php
+0 1 0 146 0 0
+/vendor/symfony/routing/RequestContextAwareInterface.php
+0 1 0 0 0 0
+/vendor/phpspec/prophecy/fixtures/WithFinalMethod.php
+0 2 0 0 0 0
+/vendor/symfony/finder/Comparator/Comparator.php
+0 1 0 0 0 0
+/app/
+0 22 0 44440 2 0
+/vendor/symfony/routing/Route.php
+0 1 0 0 0 0
+/vendor/erusev/parsedown/phpunit.xml.dist
+0 2 0 402 0 0
+/vendor/symfony/var-dumper/LICENSE
+0 1 0 1065 0 0
+/vendor/sebastian/object-enumerator/phpunit.xml
+0 1 0 742 0 0
+/vendor/phpspec/prophecy/fixtures/WithReturnTypehints.php
+0 2 0 326 0 0
+/vendor/ramsey/uuid/src/FeatureSet.php
+0 1 0 0 0 0
+/vendor/symfony/polyfill-mbstring/Mbstring.php
+0 1 0 0 0 0
+/vendor/nikic/php-parser/grammar/rebuildParsers.php
+0 1 0 2435 0 0
+/vendor/phpdocumentor/reflection-docblock/examples/02-interpreting-tags.php
+0 1 0 615 0 0
+/vendor/erusev/parsedown/LICENSE.txt
+0 1 0 1091 0 0
+/vendor/swiftmailer/swiftmailer/lib/preferences.php
+0 1 0 282 0 0
+/vendor/symfony/routing/RouteCompilerInterface.php
+0 1 0 0 0 0
+/vendor/phpdocumentor/reflection-docblock/composer.lock
+0 2 0 78524 0 0
+/app/Providers/RouteServiceProvider.php
+0 2 0 354 0 0
+/vendor/symfony/console/Output/StreamOutput.php
+0 1 0 165 0 0
+/storage/framework/views/fe4b6eb06d10b0bb298672786c673ce30f53fea2.php
+0 2 0 1824 0 0
+/vendor/symfony/css-selector/Parser/
+0 5 0 11765 0 0
+/error/500-internal-server-error.html
+0 3 0 5805 0 0
+/vendor/symfony/http-kernel/EventListener/
+0 1 0 4823 0 0
+/vendor/phpunit/php-file-iterator/src/
+0 5 0 6705 0 0
+/vendor/paragonie/random_compat/lib/
+0 6 0 17838 0 0
+/vendor/phpunit/php-text-template/composer.json
+0 1 0 653 0 0
+/resources/assets/img/paper/
+0 6 0 9054 0 0
+/vendor/symfony/http-foundation/Exception/
+0 5 0 7325 0 0
+/vendor/nikic/php-parser/LICENSE
+0 3 0 4470 0 0
+/resources/assets/fonts/fontawesome-webfont.ttf
+0 2 0 331096 0 0
+/vendor/symfony/http-kernel/DataCollector/
+0 1 0 3888 0 0
+/vendor/league/flysystem/docs/api.md
+0 1 0 5107 0 0
+/vendor/symfony/finder/Tests/
+0 5 0 8585 0 0
+/vendor/paragonie/random_compat/lib/random_bytes_com_dotnet.php
+0 1 0 0 0 0
+/vendor/nesbot/
+0 15 0 12780 0 0
+/vendor/mockery/mockery/tests/Mockery/
+0 1 0 6384 0 0
+/vendor/psr/log/Psr/Log/Test/
+0 1 0 929 0 0
+/vendor/phpunit/php-code-coverage/ChangeLog-3.1.md
+0 1 0 1008 0 0
+/vendor/symfony/http-foundation/File/
+0 5 0 8695 0 0
+/vendor/ramsey/uuid/src/Exception/
+0 1 0 1451 0 0
+/app/DTO/Testdata.php
+0 2 0 0 0 0
+/vendor/symfony/console/Descriptor/Descriptor.php
+0 1 0 188 0 0
+/vendor/doctrine/instantiator/src/Doctrine/
+0 1 0 946 0 0
+/vendor/symfony/console/Style/OutputStyle.php
+0 1 0 176 0 0
+/vendor/psr/log/Psr/Log/LoggerAwareTrait.php
+0 1 0 0 1 0
+/vendor/symfony/finder/Tests/Fixtures/
+0 1 0 2302 0 0
+/vendor/phpunit/php-token-stream/
+0 10 0 18770 0 0
+/vendor/hamcrest/hamcrest-php/generator/FactoryGenerator.php
+0 1 0 0 0 0
+/vendor/symfony/console/Helper/
+0 5 0 20835 0 0
+/resources/views/zb1/
+0 10 0 61320 0 0
+/vendor/phpunit/php-code-coverage/tests/TestCase.php
+0 1 0 157 0 0
+/vendor/symfony/http-foundation/HeaderBag.php
+0 1 0 0 0 0
+/vendor/phpdocumentor/reflection-docblock/examples/04-adding-your-own-tag.php
+0 1 0 619 0 0
+/vendor/phpspec/prophecy/
+0 11 0 27379 1 0
+/vendor/symfony/process/PhpExecutableFinder.php
+0 1 0 0 0 0
+/vendor/phpdocumentor/type-resolver/src/Types/
+0 1 0 4417 0 0
+/vendor/phpunit/php-code-coverage/composer.json
+0 1 0 1423 0 0
+/vendor/symfony/http-foundation/File/MimeType/
+0 1 0 2382 0 0
+/storage/framework/views/aef1740e004acdfa52714a1a1b41bdfc7b6806b7.php
+0 2 0 1450 0 0
+/storage/framework/views/a78f7e75b15b34088057519cd046d124888d031c.php
+0 2 0 826 0 0
+/vendor/sebastian/comparator/tests/bootstrap.php
+0 1 0 519 0 0
+/vendor/phpdocumentor/reflection-docblock/src/
+0 6 0 9696 0 0
+/vendor/fzaninotto/faker/CHANGELOG.md
+0 2 0 53026 0 0
+/vendor/symfony/css-selector/Node/ElementNode.php
+0 1 0 175 0 0
+/vendor/symfony/debug/Exception/ContextErrorException.php
+0 1 0 0 0 0
+/vendor/symfony/console/Output/OutputInterface.php
+0 1 0 0 0 0
+/vendor/sebastian/object-enumerator/src/Enumerator.php
+0 1 0 0 0 0
+/vendor/symfony/event-dispatcher/CHANGELOG.md
+0 1 0 1171 0 0
+/vendor/symfony/css-selector/Parser/Handler/
+0 1 0 2275 0 0
+/vendor/symfony/http-kernel/Kernel.php
+0 1 0 165 0 0
+/vendor/phpspec/prophecy/fixtures/SpecialMethods.php
+0 2 0 0 0 0
+/vendor/symfony/routing/RouterInterface.php
+0 1 0 179 0 0
+/vendor/sebastian/environment/tests/ConsoleTest.php
+0 1 0 156 0 0
+/vendor/symfony/css-selector/LICENSE
+0 1 0 1065 0 0
+/vendor/hamcrest/hamcrest-php/generator/FactoryCall.php
+0 1 0 0 0 0
+/vendor/phpunit/php-timer/
+0 10 0 16740 0 0
+/vendor/league/flysystem/src/Config.php
+0 1 0 0 0 0
+/vendor/sebastian/exporter/build.xml
+0 1 0 810 0 0
+/vendor/symfony/http-kernel/Profiler/
+0 1 0 1597 0 0
+/resources/views/zb1/resultfinal.blade.php
+0 2 0 842 0 0
+/vendor/symfony/finder/CHANGELOG.md
+0 1 0 1259 0 0
+/vendor/sebastian/diff/src/
+0 5 0 9425 0 0
+/vendor/symfony/css-selector/Node/Specificity.php
+0 1 0 0 0 0
+/vendor/phpdocumentor/type-resolver/examples/06-discovering-the-context-using-file-contents.php
+0 1 0 481 0 0
+/app/Http/Middleware/TrimStrings.php
+0 2 0 326 0 0
+/vendor/sebastian/code-unit-reverse-lookup/composer.json
+0 1 0 674 0 0
+/vendor/dnoegel/
+0 15 0 13110 0 0
+/vendor/phpunit/phpunit/src/ForwardCompatibility/
+0 1 0 1589 0 0
+/vendor/dnoegel/php-xdg-base-dir/src/Xdg.php
+0 1 0 0 0 0
+/vendor/symfony/finder/Comparator/
+0 5 0 6800 0 0
+/vendor/symfony/yaml/Escaper.php
+0 1 0 0 0 0
+/storage/framework/views/0ec5d110830b2e3e383b9d61e74a1f8bce34d0a5.php
+0 2 0 924 0 0
+/vendor/symfony/console/Input/InputOption.php
+0 1 0 0 0 0
+/vendor/symfony/http-foundation/ResponseHeaderBag.php
+0 1 0 174 0 0
+/vendor/sebastian/comparator/src/
+0 5 0 20280 0 0
+/vendor/sebastian/comparator/tests/FactoryTest.php
+0 1 0 155 0 0
+/vendor/fzaninotto/faker/
+0 10 0 25020 0 0
+/vendor/symfony/console/Input/InputAwareInterface.php
+0 1 0 0 0 0
+/vendor/psy/psysh/CONTRIBUTING.md
+0 1 0 911 0 0
+/vendor/phpunit/phpunit/ChangeLog-4.0.md
+0 1 0 7878 0 0
+/vendor/symfony/process/InputStream.php
+0 1 0 0 0 0
+/vendor/symfony/console/Exception/InvalidArgumentException.php
+0 1 0 199 0 0
+/vendor/symfony/console/DependencyInjection/AddConsoleCommandPass.php
+0 1 0 220 0 0
+/vendor/symfony/css-selector/phpunit.xml.dist
+0 1 0 889 0 0
+/vendor/myclabs/
+0 17 0 14620 1 0
+/app/Http/Middleware/RedirectIfAuthenticated.php
+0 2 0 0 0 0
+/vendor/myclabs/deep-copy/src/
+0 6 0 5424 0 0
+/resources/views/zb1/11.blade.php
+0 2 0 1608 0 0
+/vendor/phpdocumentor/reflection-common/src/ProjectFactory.php
+0 1 0 0 0 0
+/vendor/symfony/http-kernel/KernelEvents.php
+0 1 0 0 0 0
+/vendor/sebastian/exporter/phpunit.xml.dist
+0 1 0 654 0 0
+/resources/assets/img/paper_2_bkg.png
+0 2 0 64404 0 0
+/vendor/sebastian/comparator/src/TypeComparator.php
+0 1 0 169 0 0
+/vendor/symfony/css-selector/Tests/CssSelectorConverterTest.php
+0 1 0 168 0 0
+/vendor/psy/psysh/bin/build-phar
+0 2 0 2278 0 0
+/vendor/symfony/yaml/LICENSE
+0 1 0 1065 0 0
+/vendor/phpdocumentor/reflection-common/src/Element.php
+0 1 0 0 0 0
+/resources/lang/
+0 15 0 12735 0 0
+/vendor/nesbot/carbon/LICENSE
+0 2 0 2104 0 0
+/routes/console.php
+0 3 0 630 0 0
+/vendor/league/flysystem/docs/installation.md
+0 1 0 631 0 0
+/vendor/phpunit/php-code-coverage/src/CodeCoverage.php
+0 1 0 0 0 0
+/vendor/myclabs/deep-copy/doc/deep-clone.png
+0 2 0 28018 0 0
+/vendor/phpdocumentor/reflection-docblock/src/DocBlock.php
+0 1 0 0 0 0
+/vendor/jakub-onderka/php-console-color/composer.json
+0 2 0 1236 0 0
+/vendor/myclabs/deep-copy/doc/deep-copy.png
+0 2 0 21790 0 0
+/vendor/symfony/event-dispatcher/LICENSE
+0 1 0 1065 0 0
+/vendor/symfony/css-selector/Tests/XPath/
+0 1 0 1153 0 0
+/vendor/symfony/css-selector/
+0 10 0 27200 0 0
+/vendor/swiftmailer/swiftmailer/CHANGES
+0 2 0 16872 0 0
+/vendor/nesbot/carbon/src/
+0 6 0 5328 0 0
+/vendor/symfony/console/Descriptor/TextDescriptor.php
+0 1 0 179 0 0
+/vendor/paragonie/random_compat/psalm-autoload.php
+0 2 0 830 0 0
+/vendor/tijsverkoyen/css-to-inline-styles/
+0 6 0 9222 0 0
+/config/database.php
+0 4 0 876 1 1
+/config/broadcasting.php
+0 3 0 681 0 0
+/vendor/symfony/finder/Iterator/FileTypeFilterIterator.php
+0 1 0 185 0 0
+/vendor/symfony/console/Terminal.php
+0 1 0 0 0 0
+/vendor/jakub-onderka/php-console-highlighter/src/
+0 6 0 5832 0 0
+/vendor/symfony/finder/Exception/ExceptionInterface.php
+0 1 0 0 0 0
+/vendor/symfony/console/Descriptor/ApplicationDescription.php
+0 1 0 0 0 0
+/vendor/myclabs/deep-copy/composer.json
+0 2 0 1184 0 0
+/vendor/doctrine/inflector/LICENSE
+0 2 0 2130 0 0
+/vendor/symfony/http-kernel/Debug/
+0 1 0 1177 0 0
+/vendor/symfony/http-foundation/File/UploadedFile.php
+0 1 0 174 0 0
+/vendor/sebastian/resource-operations/src/ResourceOperations.php
+0 1 0 0 0 0
+/vendor/phpunit/phpunit/src/Runner/
+0 1 0 1998 0 0
+/resources/views/zb1/14.blade.php
+0 2 0 6142 0 0
+/vendor/psr/log/Psr/Log/LogLevel.php
+0 1 0 0 0 1
+/vendor/symfony/console/Exception/ExceptionInterface.php
+0 1 0 0 0 0
+/vendor/symfony/console/Input/StringInput.php
+0 1 0 165 0 0
+/vendor/symfony/translation/CHANGELOG.md
+0 1 0 2717 0 0
+/vendor/symfony/debug/Exception/FlattenException.php
+0 1 0 0 0 0
+/vendor/doctrine/instantiator/LICENSE
+0 2 0 2120 0 0
+/vendor/symfony/http-kernel/CacheClearer/
+0 1 0 1407 0 0
+/vendor/symfony/event-dispatcher/EventDispatcher.php
+0 1 0 193 0 0
+/vendor/laravel/tinker/
+0 10 0 12790 0 0
+/vendor/league/flysystem/docs/caching.md
+0 1 0 3736 0 0
+/vendor/phpdocumentor/reflection-docblock/src/DocBlock/
+0 1 0 2462 0 0
+/vendor/symfony/routing/Loader/
+0 1 0 3133 0 0
+/vendor/phpdocumentor/type-resolver/examples/04-discovering-the-context-using-class-reflection.php
+0 1 0 487 0 0
+/vendor/symfony/http-kernel/ControllerMetadata/
+0 1 0 1453 0 0
+/vendor/sebastian/comparator/LICENSE
+0 2 0 3090 0 0
+/vendor/phpunit/php-code-coverage/ChangeLog-3.3.md
+0 1 0 1055 0 0
+/vendor/nikic/php-parser/doc/2_Usage_of_basic_components.markdown
+0 1 0 15988 0 0
+/vendor/symfony/http-kernel/Client.php
+0 1 0 152 0 0
+/routes/api.php
+0 4 0 800 1 0
+/vendor/phpspec/prophecy/spec/
+0 7 0 6321 1 0
+/vendor/symfony/debug/FatalErrorHandler/
+0 5 0 8625 0 0
+/vendor/symfony/console/Event/ConsoleExceptionEvent.php
+0 1 0 178 0 0
+/vendor/sebastian/global-state/tests/
+0 5 0 6765 0 0
+/vendor/phpdocumentor/reflection-common/
+0 12 0 23148 0 1
+/vendor/composer/installed.json
+0 2 0 225882 0 0
+/vendor/phpspec/prophecy/fixtures/WithProtectedAbstractMethod.php
+0 2 0 0 0 0
+/vendor/symfony/debug/phpunit.xml.dist
+0 1 0 988 0 0
+/vendor/symfony/console/Helper/HelperInterface.php
+0 1 0 0 0 0
+/vendor/phpdocumentor/type-resolver/LICENSE
+0 3 0 3240 0 0
+/error_logs/
+0 5 0 0 1 0
+/vendor/jakub-onderka/php-console-color/src/JakubOnderka/
+0 1 0 990 0 0
+/vendor/phpunit/php-token-stream/build.xml
+0 1 0 1057 0 0
+/resources/assets/css/
+0 10 0 8740 0 0
+/vendor/ramsey/uuid/src/Converter/
+0 1 0 1569 0 0
+/vendor/symfony/console/Formatter/OutputFormatterInterface.php
+0 1 0 0 0 0
+/vendor/doctrine/instantiator/
+0 10 0 21180 0 0
+/vendor/symfony/console/Exception/RuntimeException.php
+0 1 0 191 0 0
+/vendor/symfony/http-kernel/phpunit.xml.dist
+0 1 0 1170 0 0
+/vendor/symfony/debug/Exception/
+0 5 0 13945 0 0
+/vendor/sebastian/comparator/src/NumericComparator.php
+0 1 0 178 0 0
+/vendor/swiftmailer/swiftmailer/composer.json
+0 2 0 1658 0 0
+/vendor/symfony/console/Exception/InvalidOptionException.php
+0 1 0 197 0 0
+/vendor/league/flysystem/src/Directory.php
+0 1 0 144 0 0
+/vendor/symfony/event-dispatcher/Tests/
+0 5 0 12740 0 0
+/vendor/doctrine/inflector/lib/
+0 6 0 5442 0 0
+/vendor/sebastian/code-unit-reverse-lookup/build.xml
+0 1 0 802 0 0
+/storage/logs/
+0 16 0 13760 0 0
+/vendor/doctrine/instantiator/phpmd.xml.dist
+0 2 0 2170 0 0
+/vendor/jakub-onderka/php-console-highlighter/examples/whole_file_line_numbers.php
+0 1 0 627 0 0
+/vendor/sebastian/diff/tests/DifferTest.php
+0 1 0 148 0 0
+/vendor/sebastian/code-unit-reverse-lookup/LICENSE
+0 2 0 3118 0 1
+/vendor/phpdocumentor/reflection-common/composer.json
+0 2 0 1462 0 0
+/vendor/phpunit/phpunit/ChangeLog-5.0.md
+0 1 0 6255 0 0
+/vendor/symfony/debug/Tests/DebugClassLoaderTest.php
+0 1 0 157 0 0
+/vendor/symfony/console/Helper/TableStyle.php
+0 1 0 0 1 0
+/vendor/league/flysystem/docs/mount-manager.md
+0 1 0 2193 0 0
+/vendor/hamcrest/hamcrest-php/generator/FactoryMethod.php
+0 1 0 0 0 0
+/vendor/symfony/var-dumper/CHANGELOG.md
+0 1 0 146 0 0
+/vendor/phpunit/phpunit/tests/Extensions/
+0 1 0 1175 0 0
+/bootstrap/autoload.php
+0 3 0 0 0 0
+/vendor/ramsey/uuid/composer.json
+0 1 0 2856 0 0
+/vendor/symfony/http-foundation/Exception/SuspiciousOperationException.php
+0 1 0 225 0 0
+/app/Http/Middleware/VerifyCsrfToken.php
+0 2 0 342 0 0
+/vendor/sebastian/comparator/tests/ObjectComparatorTest.php
+0 1 0 164 0 0
+/vendor/swiftmailer/swiftmailer/doc/japanese.rst
+0 1 0 676 0 0
+/vendor/sebastian/exporter/LICENSE
+0 2 0 3086 0 0
+/vendor/symfony/console/Tests/Formatter/
+0 1 0 1443 0 0
+/vendor/mockery/mockery/travis/before_script.sh
+0 2 0 606 0 0
+/vendor/psr/
+0 12 0 10080 0 1
+/vendor/monolog/monolog/doc/04-extending.md
+0 1 0 2159 0 0
+/vendor/symfony/event-dispatcher/Debug/WrappedListener.php
+0 1 0 0 0 0
+/vendor/sebastian/global-state/src/Snapshot.php
+0 1 0 0 0 0
+/vendor/phpunit/php-code-coverage/src/Util.php
+0 1 0 0 0 0
+/vendor/league/flysystem/docs/adapter/
+0 1 0 3947 0 0
+/storage/framework/views/ac1932b37407050bf97763f39571d23a5321c3e6.php
+0 2 0 1004 0 0
+/vendor/symfony/translation/Util/
+0 1 0 931 0 0
+/vendor/phpunit/phpunit/ChangeLog-4.2.md
+0 1 0 2411 0 0
+/vendor/sebastian/comparator/tests/DoubleComparatorTest.php
+0 1 0 164 0 0
+/vendor/symfony/var-dumper/Caster/
+0 1 0 6002 0 0
+/vendor/symfony/routing/Router.php
+0 1 0 158 0 0
+/vendor/symfony/console/Output/
+0 5 0 11095 0 0
+/vendor/myclabs/deep-copy/doc/graph.png
+0 2 0 12872 0 0
+/vendor/phpunit/php-file-iterator/
+0 10 0 15020 0 0
+/vendor/symfony/http-foundation/Cookie.php
+0 1 0 0 0 0
+/vendor/phpunit/phpunit-mock-objects/tests/MockObjectTest.php
+0 1 0 166 0 0
+/vendor/league/flysystem/src/RootViolationException.php
+0 1 0 0 0 0
+/vendor/symfony/http-kernel/Controller/
+0 1 0 3078 0 0
+/vendor/symfony/process/phpunit.xml.dist
+0 1 0 834 0 0
+/vendor/phpspec/prophecy/tests/Doubler/
+0 1 0 929 0 0
+/vendor/symfony/process/ProcessBuilder.php
+0 1 0 0 0 0
+/vendor/monolog/monolog/phpunit.xml.dist
+0 2 0 920 0 0
+/vendor/jakub-onderka/php-console-color/phpunit.xml
+0 1 0 373 0 0
+/storage/framework/views/d00a847003d0048036538ccd574961755929dda0.php
+0 2 0 1452 0 0
+/vendor/sebastian/diff/src/LCS/
+0 1 0 1534 0 0
+/vendor/phpdocumentor/reflection-docblock/phpmd.xml.dist
+0 2 0 1690 0 0
+/vendor/phpdocumentor/reflection-common/composer.lock
+0 2 0 67522 0 0
+/vendor/symfony/finder/Iterator/SizeRangeFilterIterator.php
+0 1 0 186 0 0
+/vendor/symfony/console/Command/HelpCommand.php
+0 1 0 167 0 0
+/vendor/symfony/finder/phpunit.xml.dist
+0 1 0 833 0 0
+/vendor/symfony/finder/Tests/FinderTest.php
+0 1 0 182 0 0
+/config/app.php
+0 3 0 627 0 0
+/vendor/symfony/console/Resources/
+0 5 0 4500 0 0
+/vendor/sebastian/diff/composer.json
+0 1 0 733 0 0
+/vendor/nikic/php-parser/lib/bootstrap.php
+0 1 0 0 0 0
+/vendor/swiftmailer/swiftmailer/lib/
+0 6 0 14802 0 0
+/vendor/symfony/console/Descriptor/XmlDescriptor.php
+0 1 0 178 0 0
+/vendor/swiftmailer/swiftmailer/tests/smoke.conf.php.default
+0 1 0 0 0 0
+/vendor/phpunit/phpunit-mock-objects/tests/MockObject/
+0 1 0 1816 0 0
+/vendor/symfony/debug/Tests/
+0 5 0 13185 0 0
+/vendor/phpspec/prophecy/CONTRIBUTING.md
+0 2 0 1378 0 0
+/vendor/phpdocumentor/reflection-docblock/tests/
+0 6 0 6918 0 0
+/vendor/symfony/console/Tests/ApplicationTest.php
+0 1 0 154 0 0
+/vendor/ramsey/uuid/CODE_OF_CONDUCT.md
+0 1 0 3224 0 0
+/vendor/league/flysystem/src/MountManager.php
+0 1 0 162 0 0
+/vendor/league/flysystem/docs/
+0 7 0 26345 0 0
+/vendor/symfony/http-foundation/Exception/RequestExceptionInterface.php
+0 1 0 0 0 0
+/vendor/swiftmailer/swiftmailer/doc/sending.rst
+0 1 0 20343 0 0
+/vendor/phpunit/php-text-template/src/
+0 5 0 4675 0 0
+/vendor/phpunit/php-token-stream/src/
+0 5 0 5595 0 0
+/vendor/nikic/php-parser/bin/
+0 8 0 7216 1 1
+/vendor/symfony/css-selector/Exception/InternalErrorException.php
+0 1 0 198 0 0
+/vendor/sebastian/diff/tests/LCS/
+0 1 0 1468 0 0
+/vendor/symfony/event-dispatcher/
+0 10 0 37280 0 0
+/vendor/symfony/finder/Iterator/MultiplePcreFilterIterator.php
+0 1 0 189 0 0
+/vendor/phpspec/prophecy/fixtures/WithVariadicArgument.php
+0 2 0 0 1 1
+/vendor/symfony/process/PhpProcess.php
+0 1 0 150 0 0
+/vendor/swiftmailer/swiftmailer/tests/fixtures/
+0 1 0 975 0 0
+/vendor/symfony/debug/FatalErrorHandler/UndefinedMethodFatalErrorHandler.php
+0 1 0 227 0 0
+/routes/channels.php
+0 4 0 856 1 0
+/vendor/sebastian/comparator/src/Factory.php
+0 1 0 0 0 0
+/storage/framework/
+0 15 0 21720 0 0
+/vendor/fzaninotto/faker/test/test.php
+0 1 0 489 0 0
+/vendor/nikic/php-parser/bin/php-parse
+0 2 0 12196 1 1
+/app/Providers/BroadcastServiceProvider.php
+0 2 0 310 0 0
+/storage/framework/views/8d66d59dfe3e8f618f66e7d7514e746a7f543655.php
+0 2 0 850 0 0
+/vendor/doctrine/inflector/phpunit.xml.dist
+0 2 0 1642 0 0
+/vendor/phpunit/php-code-coverage/tests/tests/
+0 1 0 2637 0 0
+/vendor/symfony/finder/Iterator/CustomFilterIterator.php
+0 1 0 183 0 0
+/vendor/phpunit/phpunit/src/TextUI/
+0 1 0 1347 0 0
+/vendor/jakub-onderka/php-console-highlighter/composer.json
+0 2 0 1426 0 0
+/vendor/symfony/translation/Extractor/
+0 1 0 1399 0 0
+/vendor/symfony/console/Logger/ConsoleLogger.php
+0 1 0 149 0 0
+/vendor/phpdocumentor/type-resolver/src/Type.php
+0 1 0 0 0 0
+/vendor/symfony/css-selector/Node/FunctionNode.php
+0 1 0 176 0 0
+/vendor/symfony/translation/LoggingTranslator.php
+0 1 0 181 0 0
+/vendor/sebastian/resource-operations/LICENSE
+0 2 0 3098 0 1
+/vendor/phpunit/php-timer/phpunit.xml
+0 1 0 693 0 0
+/vendor/symfony/var-dumper/Exception/
+0 1 0 956 0 0
+/vendor/myclabs/deep-copy/LICENSE
+0 3 0 3231 0 0
+/vendor/phpunit/php-file-iterator/ChangeLog.md
+0 1 0 302 0 0
+/vendor/jakub-onderka/php-console-color/
+0 10 0 19130 0 0
+/vendor/laravel/tinker/src/TinkerServiceProvider.php
+0 1 0 164 0 0
+/vendor/phpunit/php-code-coverage/src/Report/
+0 1 0 1925 0 0
+/vendor/ramsey/uuid/src/Codec/
+0 1 0 2045 0 0
+/artisan
+0 6 0 9876 2 0
+/vendor/webmozart/assert/src/
+0 1 0 904 0 0
+/vendor/doctrine/inflector/
+0 10 0 16900 0 0
+/vendor/symfony/translation/Resources/
+0 1 0 920 0 0
+/vendor/symfony/http-foundation/CHANGELOG.md
+0 1 0 7800 0 0
+/vendor/symfony/http-foundation/Request.php
+0 1 0 0 0 0
+/vendor/sebastian/environment/composer.json
+0 1 0 713 0 0
+/vendor/symfony/http-kernel/Exception/
+0 1 0 4827 0 0
+/vendor/symfony/console/Helper/Table.php
+0 1 0 0 0 0
+/vendor/jakub-onderka/php-console-highlighter/phpunit.xml
+0 1 0 373 0 0
+/vendor/phpunit/phpunit-mock-objects/
+0 10 0 22980 0 0
+/vendor/phpunit/phpunit/ChangeLog-5.2.md
+0 1 0 5098 0 0
+/vendor/mockery/mockery/composer.json
+0 3 0 4473 0 0
+/resources/views/zb1/2.blade.php
+0 2 0 1228 0 0
+/vendor/sebastian/environment/tests/RuntimeTest.php
+0 1 0 156 0 0
+/vendor/symfony/
+0 11 0 36234 0 0
+/vendor/sebastian/comparator/src/ResourceComparator.php
+0 1 0 173 0 0
+/storage/app/public/statistics.csv
+0 2 0 242 0 0
+/vendor/sebastian/global-state/build.xml
+0 1 0 1053 0 0
+/vendor/symfony/http-kernel/Config/
+0 1 0 1161 0 0
+/vendor/symfony/console/Tests/DependencyInjection/
+0 1 0 989 0 0
+/vendor/symfony/console/CHANGELOG.md
+0 1 0 3120 0 0
+/vendor/symfony/event-dispatcher/Tests/GenericEventTest.php
+0 1 0 164 0 0
+/vendor/sebastian/environment/build.xml
+0 2 0 1624 0 0
+/vendor/league/flysystem/src/Exception.php
+0 1 0 0 0 0
+/resources/views/
+0 15 0 15945 0 0
+/vendor/phpunit/phpunit-mock-objects/build/travis-ci.xml
+0 1 0 458 0 0
+/vendor/erusev/parsedown/test/data/
+0 1 0 23239 0 0
+/vendor/vlucas/phpdotenv/src/
+0 1 0 1515 0 0
+/vendor/nesbot/carbon/composer.json
+0 2 0 2682 0 0
+/vendor/phpunit/phpunit/tests/Util/
+0 1 0 2392 0 0
+/vendor/phpunit/phpunit/ChangeLog-4.4.md
+0 1 0 2323 0 0
+/vendor/composer/autoload_psr4.php
+0 2 0 0 0 0
+/vendor/symfony/http-foundation/
+0 10 0 66210 0 0
+/vendor/symfony/finder/SplFileInfo.php
+0 1 0 0 0 0
+/vendor/sebastian/version/LICENSE
+0 2 0 3084 0 0
+/vendor/psy/psysh/test/
+0 5 0 6320 0 0
+/vendor/symfony/http-foundation/File/Exception/
+0 1 0 1886 0 0
+/vendor/psy/
+0 12 0 10128 1 0
+/vendor/sebastian/resource-operations/src/
+0 5 0 4835 0 0
+/vendor/mtdowling/cron-expression/composer.json
+0 2 0 1390 0 0
+/vendor/symfony/http-foundation/composer.json
+0 1 0 904 0 0
+/vendor/symfony/console/Style/StyleInterface.php
+0 1 0 0 0 0
+/vendor/phpspec/prophecy/phpunit.xml.dist
+0 2 0 1238 0 0
+/vendor/sebastian/diff/tests/
+0 5 0 10640 0 0
+/vendor/phpdocumentor/type-resolver/tests/unit/
+0 1 0 1170 0 0
+/resources/views/zb1/start.blade.php
+0 2 0 11116 0 0
+/vendor/phpunit/phpunit-mock-objects/tests/ProxyObjectTest.php
+0 1 0 167 0 0
+/vendor/swiftmailer/swiftmailer/tests/SwiftMailerSmokeTestCase.php
+0 1 0 163 0 0
+/vendor/swiftmailer/swiftmailer/lib/swiftmailer_generate_mimes_config.php
+0 1 0 171 0 0
+/vendor/psy/psysh/composer.json
+0 1 0 1772 0 0
+/vendor/league/flysystem/composer.json
+0 2 0 4166 0 0
+/vendor/monolog/monolog/composer.json
+0 2 0 5060 0 0
+/vendor/paragonie/random_compat/lib/random_bytes_libsodium_legacy.php
+0 1 0 0 0 0
+/app/Http/Controllers/Auth/
+0 6 0 9690 0 0
+/vendor/sebastian/code-unit-reverse-lookup/phpunit.xml
+0 1 0 782 0 0
+/resources/views/zb1/5.blade.php
+0 2 0 1228 0 0
+/vendor/fzaninotto/faker/test/Faker/
+0 1 0 1569 0 0
+/vendor/symfony/console/Tests/Style/
+0 1 0 943 0 0
+/vendor/phpunit/php-timer/src/
+0 5 0 4525 0 0
+/vendor/swiftmailer/swiftmailer/lib/swift_init.php
+0 1 0 420 0 0
+/vendor/swiftmailer/swiftmailer/LICENSE
+0 2 0 2130 0 0
+/vendor/phpunit/phpunit-mock-objects/CONTRIBUTING.md
+0 1 0 215 0 0
+/vendor/symfony/yaml/
+0 6 0 20982 0 0
+/vendor/symfony/console/LICENSE
+0 1 0 1065 0 0
+/vendor/symfony/console/Tests/Tester/
+0 1 0 1179 0 0
+/vendor/symfony/translation/MetadataAwareInterface.php
+0 1 0 0 0 0
+/vendor/phpunit/phpunit-mock-objects/LICENSE
+0 1 0 1553 0 0
+/vendor/sebastian/comparator/composer.json
+0 1 0 1082 0 0
+/vendor/psy/psysh/test/Psy/
+0 1 0 887 0 0
+/vendor/sebastian/comparator/tests/SplObjectStorageComparatorTest.php
+0 1 0 174 0 0
+/vendor/phpdocumentor/reflection-docblock/examples/03-reconstituting-a-docblock.php
+0 1 0 631 0 0
+/vendor/jakub-onderka/php-console-highlighter/tests/bootstrap.php
+0 1 0 597 0 0
+/vendor/swiftmailer/swiftmailer/lib/swift_required.php
+0 2 0 0 0 1
+/vendor/phpunit/php-code-coverage/
+0 10 0 31710 0 1
+/composer.json
+0 5 0 6500 0 0
+/vendor/symfony/debug/ExceptionHandler.php
+0 1 0 0 0 0
+/vendor/monolog/monolog/LICENSE
+0 2 0 2126 0 0
+/vendor/swiftmailer/swiftmailer/tests/_samples/
+0 1 0 1527 0 0
+/vendor/mockery/mockery/library/Mockery/
+0 1 0 5613 0 0
+/vendor/phpunit/phpunit-mock-objects/tests/_fixture/
+0 1 0 6172 0 0
+/vendor/composer/
+0 15 0 39015 0 0
+/vendor/paragonie/random_compat/lib/random_bytes_libsodium.php
+0 1 0 0 0 0
+/vendor/symfony/http-foundation/File/Stream.php
+0 1 0 168 0 0
+/vendor/phpspec/prophecy/fixtures/WithArguments.php
+0 2 0 0 0 0
+/bootstrap/app.php
+0 3 0 702 0 0
+/vendor/symfony/css-selector/Node/PseudoNode.php
+0 1 0 174 0 0
+/vendor/monolog/monolog/src/
+0 6 0 5376 0 0
+/vendor/league/flysystem/src/Adapter/
+0 1 0 2609 0 0
+/vendor/league/flysystem/docs/creating-an-adapter.md
+0 1 0 2149 0 0
+/vendor/mockery/mockery/phpunit.xml.dist
+0 3 0 4578 0 0
+/vendor/sebastian/comparator/tests/
+0 5 0 21695 0 0
+/vendor/psr/log/Psr/Log/LoggerInterface.php
+0 1 0 0 0 1
+/vendor/jakub-onderka/php-console-highlighter/examples/snippet.php
+0 1 0 595 0 0
+/vendor/symfony/finder/Iterator/ExcludeDirectoryFilterIterator.php
+0 1 0 193 0 0
+/vendor/symfony/event-dispatcher/Tests/ContainerAwareEventDispatcherTest.php
+0 1 0 222 0 0
+/vendor/hamcrest/hamcrest-php/tests/phpunit.xml.dist
+0 1 0 648 0 0
+/resources/views/zb1/8.blade.php
+0 2 0 1286 0 0
+/vendor/symfony/css-selector/Node/HashNode.php
+0 1 0 172 0 0
+/vendor/symfony/debug/Exception/FatalErrorException.php
+0 1 0 0 0 0
+/vendor/symfony/var-dumper/Dumper/
+0 1 0 1578 0 0
+/vendor/symfony/routing/Matcher/
+0 1 0 2290 0 0
+/vendor/symfony/console/Helper/ProgressBar.php
+0 1 0 0 0 0
+/storage/framework/views/e8640d584c6a00680107f36b40aae75f8fd3b3bf.php
+0 2 0 1116 0 0
+/error/404-file-not-found.html
+0 3 0 5388 0 0
+/resources/assets/sass/_variables.scss
+0 2 0 1746 0 0
+/vendor/symfony/css-selector/Parser/Reader.php
+0 1 0 0 0 0
+/vendor/symfony/yaml/Parser.php
+0 1 0 0 0 0
+/vendor/sebastian/global-state/
+0 11 0 20856 0 0
+/vendor/phpunit/php-timer/tests/TimerTest.php
+0 1 0 150 0 0
+/composer.lock
+0 5 0 610805 0 0
+/vendor/symfony/process/Process.php
+0 1 0 0 0 0
+/vendor/symfony/console/Tests/Descriptor/
+0 1 0 2095 0 0
+/vendor/sebastian/object-enumerator/tests/
+0 5 0 5780 0 0
+/vendor/laravel/
+0 15 0 15825 0 0
+/resources/assets/img/badge.ai
+0 2 0 667000 0 0
+/vendor/mockery/mockery/
+0 11 0 31845 0 0
+/vendor/sebastian/code-unit-reverse-lookup/src/Wizard.php
+0 1 0 0 0 0
+/vendor/symfony/translation/TranslatorInterface.php
+0 1 0 0 0 0
+/vendor/nesbot/carbon/src/Carbon/
+0 1 0 1525 0 0
+/vendor/phpunit/phpunit/ChangeLog-5.4.md
+0 1 0 4496 0 0
+/vendor/composer/autoload_classmap.php
+0 2 0 0 0 0
+/vendor/symfony/http-foundation/Tests/AcceptHeaderTest.php
+0 1 0 163 0 0
+/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactoryInterface.php
+0 1 0 0 0 0
+/vendor/phpunit/phpunit/tests/Regression/
+0 1 0 1117 0 0
+/vendor/psr/log/
+0 12 0 15072 1 1
+/vendor/ramsey/uuid/src/Builder/
+0 1 0 1391 0 0
+/vendor/symfony/console/Input/ArgvInput.php
+0 1 0 159 0 0
+/vendor/symfony/var-dumper/phpunit.xml.dist
+0 1 0 987 0 0
+/storage/framework/views/c3a65a1c02cac0c494476be2a0760206404a4390.php
+0 2 0 4706 0 0
+/vendor/monolog/monolog/doc/sockets.md
+0 1 0 1023 0 0
+/vendor/symfony/translation/DataCollector/
+0 1 0 969 0 0
+/vendor/phpunit/php-timer/LICENSE
+0 1 0 1544 0 0
+/vendor/symfony/process/ProcessUtils.php
+0 1 0 0 0 0
+/vendor/symfony/debug/FatalErrorHandler/UndefinedFunctionFatalErrorHandler.php
+0 1 0 229 0 0
+/vendor/sebastian/comparator/src/DateTimeComparator.php
+0 1 0 179 0 0
+/vendor/erusev/parsedown/test/CommonMarkTest.php
+0 1 0 153 0 0
+/vendor/symfony/routing/RouteCollection.php
+0 1 0 0 0 0
+/vendor/symfony/css-selector/Node/SelectorNode.php
+0 1 0 176 0 0
+/vendor/symfony/finder/Glob.php
+0 1 0 0 0 0
+/vendor/phpunit/phpunit/ChangeLog-4.6.md
+0 1 0 4165 0 0
+/vendor/psy/psysh/bin/build-vendor
+0 2 0 436 0 0
+/vendor/swiftmailer/swiftmailer/doc/plugins.rst
+0 1 0 14053 0 0
+/vendor/symfony/http-kernel/UriSigner.php
+0 1 0 0 0 0
+/vendor/symfony/http-kernel/Tests/
+0 1 0 5237 0 0
+/vendor/phpspec/prophecy/CHANGES.md
+0 2 0 13428 0 0
+/resources/views/zb1/13_1.blade.php
+0 2 0 6636 0 0
+/app/Transformation/
+0 15 0 16350 0 0
+/vendor/hamcrest/hamcrest-php/generator/GlobalFunctionFile.php
+0 1 0 151 0 0
+/vendor/sebastian/exporter/
+0 11 0 20768 1 1
+/webpack.mix.js
+0 4 0 2220 0 0
+/vendor/mockery/mockery/docs/Makefile
+0 1 0 6782 0 0
+/vendor/symfony/http-foundation/ServerBag.php
+0 1 0 169 0 0
+/vendor/symfony/debug/Tests/ExceptionHandlerTest.php
+0 1 0 157 0 0
+/vendor/nikic/php-parser/test_old/run-php-src.sh
+0 1 0 223 0 0
+/vendor/symfony/css-selector/Node/NodeInterface.php
+0 1 0 0 0 0
+/vendor/swiftmailer/swiftmailer/VERSION
+0 2 0 24 0 1
+/vendor/paragonie/random_compat/lib/byte_safe_strings.php
+0 1 0 0 0 0
+/vendor/sebastian/comparator/tests/DOMNodeComparatorTest.php
+0 1 0 165 0 0
+/vendor/phpdocumentor/type-resolver/src/
+0 6 0 9336 0 0
+/vendor/mtdowling/cron-expression/tests/
+0 6 0 5544 0 0
+/vendor/phpspec/prophecy/fixtures/EmptyClass.php
+0 2 0 0 0 0
+/vendor/doctrine/instantiator/CONTRIBUTING.md
+0 2 0 2166 0 0
+/vendor/symfony/console/Helper/QuestionHelper.php
+0 1 0 167 0 0
+/vendor/phpdocumentor/type-resolver/src/TypeResolver.php
+0 1 0 0 0 0
+/vendor/symfony/translation/DataCollectorTranslator.php
+0 1 0 187 0 0
+/vendor/sebastian/recursion-context/src/Exception.php
+0 1 0 0 0 0
+/vendor/symfony/console/EventListener/ErrorListener.php
+0 1 0 196 0 0
+/vendor/symfony/console/Formatter/OutputFormatterStyleStack.php
+0 1 0 0 0 0
+/vendor/symfony/translation/MessageSelector.php
+0 1 0 0 0 0
+/vendor/symfony/routing/CHANGELOG.md
+0 1 0 9036 0 0
+/app/Transformation/ViewHelper.php
+0 2 0 0 0 0
+/resources/views/zb1/result1.blade.php
+0 2 0 818 0 0
+/vendor/symfony/console/Helper/InputAwareHelper.php
+0 1 0 169 0 0
+/storage/framework/views/907a08e70d50ff73e6cdb94cf43ed5c1b0f9d811.php
+0 2 0 926 0 0
+/vendor/symfony/console/Tests/
+0 5 0 17665 0 0
+/vendor/symfony/debug/Tests/ErrorHandlerTest.php
+0 1 0 153 0 0
+/vendor/fzaninotto/faker/readme.md
+0 2 0 89732 0 0
+/vendor/swiftmailer/swiftmailer/phpunit.xml.dist
+0 3 0 3936 0 0
+/vendor/jakub-onderka/php-console-color/tests/JakubOnderka/
+0 1 0 996 0 0
+/vendor/jakub-onderka/php-console-highlighter/src/JakubOnderka/
+0 1 0 1020 0 0
+/app/Console/Kernel.php
+0 2 0 274 0 0
+/vendor/symfony/finder/Exception/AccessDeniedException.php
+0 1 0 0 0 0
+/vendor/swiftmailer/swiftmailer/doc/overview.rst
+0 1 0 9004 0 0
+/bootstrap/cache/
+0 15 0 13050 0 0
+/vendor/symfony/http-foundation/LICENSE
+0 1 0 1065 0 0
+/vendor/paragonie/random_compat/build-phar.sh
+0 2 0 268 0 0
+/vendor/psr/log/Psr/Log/AbstractLogger.php
+0 1 0 148 0 0
+/vendor/sebastian/environment/src/
+0 5 0 5625 0 0
+/app/DTO/Item.php
+0 2 0 0 0 0
+/vendor/nikic/php-parser/grammar/tokens.y
+0 1 0 2550 0 0
+/vendor/phpunit/php-timer/composer.json
+0 1 0 813 0 0
+/vendor/sebastian/diff/src/Differ.php
+0 1 0 0 0 0
+/vendor/symfony/debug/composer.json
+0 1 0 955 0 0
+/vendor/ramsey/
+0 11 0 9328 0 0
+/vendor/phpdocumentor/type-resolver/composer.json
+0 2 0 1332 0 0
+/vendor/sebastian/diff/src/Line.php
+0 1 0 0 0 0
+/vendor/phpunit/php-file-iterator/LICENSE
+0 1 0 1548 0 0
+/vendor/sebastian/global-state/tests/SnapshotTest.php
+0 1 0 158 0 0
+/vendor/ramsey/uuid/CHANGELOG.md
+0 1 0 13045 0 0
+/vendor/sebastian/version/
+0 11 0 14102 0 0
+/vendor/sebastian/global-state/src/Restorer.php
+0 1 0 0 0 0
+/vendor/phpunit/phpunit/phpunit
+0 1 0 1278 0 0
+/vendor/symfony/css-selector/Exception/ParseException.php
+0 1 0 198 0 0
+/vendor/myclabs/deep-copy/src/DeepCopy/
+0 1 0 2137 0 0
+/vendor/phpunit/php-code-coverage/tests/_files/
+0 1 0 12939 0 0
+/vendor/nikic/php-parser/test/code/
+0 1 0 1123 0 0
+/vendor/phpspec/prophecy/fixtures/WithCallableArgument.php
+0 2 0 0 0 0
+/vendor/symfony/http-kernel/HttpKernelInterface.php
+0 1 0 0 0 0
+/storage/framework/views/b38c7a61065fa53a4e58fdd871ed2010e68c6e39.php
+0 2 0 850 0 0
+/app/Http/Middleware/EncryptCookies.php
+0 2 0 320 0 0
+/vendor/mockery/mockery/travis/install.sh
+0 2 0 274 0 0
+/vendor/erusev/parsedown/test/ParsedownTest.php
+0 1 0 151 0 0
+/vendor/doctrine/inflector/tests/Doctrine/
+0 1 0 929 0 0
+/vendor/symfony/console/Input/Input.php
+0 1 0 168 0 0
+/vendor/swiftmailer/swiftmailer/doc/installing.rst
+0 1 0 2603 0 0
+/vendor/sebastian/object-enumerator/src/
+0 5 0 6955 0 0
+/vendor/sebastian/code-unit-reverse-lookup/tests/
+0 5 0 4850 0 0
+/vendor/symfony/finder/Finder.php
+0 1 0 0 0 0
+/vendor/symfony/finder/Tests/Comparator/
+0 1 0 1402 0 0
+/vendor/symfony/css-selector/XPath/Translator.php
+0 1 0 187 0 0
+/vendor/phpdocumentor/
+0 16 0 21088 1 0
+/vendor/sebastian/recursion-context/LICENSE
+0 2 0 3104 0 0
+/vendor/phpunit/phpunit-mock-objects/build.xml
+0 1 0 1208 0 0
+/vendor/psy/psysh/
+0 11 0 22726 0 1
+/vendor/league/flysystem/
+0 10 0 14680 0 0
+/vendor/symfony/console/Tests/Input/
+0 1 0 2255 0 0
+/vendor/sebastian/recursion-context/src/
+0 5 0 6925 0 0
+/vendor/sebastian/comparator/tests/NumericComparatorTest.php
+0 1 0 165 0 0
+/vendor/symfony/console/Helper/SymfonyQuestionHelper.php
+0 1 0 182 0 0
+/vendor/sebastian/recursion-context/phpunit.xml.dist
+0 1 0 661 0 0
+/resources/assets/img/
+0 10 0 16810 0 0
+/vendor/mockery/mockery/tests/
+0 6 0 6648 0 0
+/vendor/sebastian/comparator/src/Comparator.php
+0 1 0 0 0 0
+/vendor/symfony/routing/composer.json
+0 1 0 1717 0 0
+/vendor/myclabs/deep-copy/
+0 11 0 16159 1 0
+/vendor/sebastian/comparator/tests/ResourceComparatorTest.php
+0 1 0 166 0 0
+/vendor/sebastian/code-unit-reverse-lookup/src/
+0 5 0 4790 0 0
+/vendor/psy/psysh/bin/psysh
+0 2 0 8316 0 0
+/vendor/phpspec/prophecy/spec/Prophecy/Prophecy/
+0 1 0 1420 0 1
+/vendor/symfony/debug/Tests/Fixtures/
+0 1 0 3522 0 0
+/vendor/tijsverkoyen/css-to-inline-styles/composer.json
+0 1 0 805 0 0
+/vendor/league/flysystem/docs/performance.md
+0 1 0 753 0 0
+/vendor/league/flysystem/src/Filesystem.php
+0 1 0 160 0 0
+/vendor/symfony/process/LICENSE
+0 1 0 1065 0 0
+/resources/views/zb1/12.blade.php
+0 2 0 3164 0 0
+/vendor/symfony/event-dispatcher/phpunit.xml.dist
+0 1 0 893 0 0
+/vendor/laravel/framework/src/Illuminate/
+0 1 0 6458 0 0
+/vendor/symfony/translation/phpunit.xml.dist
+0 1 0 838 0 0
+/vendor/phpunit/php-token-stream/src/Token.php
+0 1 0 0 0 0
+/vendor/phpunit/phpunit/ChangeLog-5.6.md
+0 1 0 3738 0 0
+/storage/
+0 21 0 25599 2 0
+/vendor/paragonie/random_compat/dist/random_compat.phar.pubkey
+0 1 0 215 0 0
+/vendor/ramsey/uuid/src/UuidFactoryInterface.php
+0 1 0 0 0 0
+/bootstrap/cache/services.php
+0 2 0 0 0 0
+/vendor/mockery/mockery/library/
+0 6 0 6648 0 0
+/vendor/webmozart/
+0 11 0 9438 0 0
+/vendor/phpunit/php-token-stream/build/phpunit.xml
+0 1 0 479 0 0
+/app/Http/Controllers/Auth/ForgotPasswordController.php
+0 1 0 164 0 0
+/vendor/symfony/console/Formatter/
+0 5 0 9435 0 0
+/resources/assets/js/app.js
+0 2 0 1625446 0 0
+/vendor/dnoegel/php-xdg-base-dir/tests/XdgTest.php
+0 1 0 154 0 0
+/vendor/phpdocumentor/reflection-docblock/examples/playing-with-descriptions/
+0 1 0 1036 0 0
+/vendor/symfony/routing/CompiledRoute.php
+0 1 0 0 0 0
+/vendor/symfony/debug/Exception/FatalThrowableError.php
+0 1 0 187 0 0
+/vendor/sebastian/comparator/src/SplObjectStorageComparator.php
+0 1 0 181 0 0
+/vendor/sebastian/recursion-context/
+0 11 0 20966 0 0
+/vendor/composer/autoload_files.php
+0 2 0 0 0 0
+/resources/lang/en/auth.php
+0 2 0 0 0 0
+/vendor/symfony/css-selector/Parser/Shortcut/
+0 1 0 1607 0 0
+/vendor/league/flysystem/src/Handler.php
+0 1 0 0 0 0
+/vendor/sebastian/exporter/tests/ExporterTest.php
+0 1 0 154 0 0
+/vendor/swiftmailer/swiftmailer/tests/smoke/
+0 1 0 938 0 0
+/vendor/symfony/http-foundation/JsonResponse.php
+0 1 0 168 0 0
+/vendor/swiftmailer/swiftmailer/doc/uml/
+0 1 0 1373 0 0
+/vendor/symfony/http-foundation/Session/
+0 1 0 1976 0 0
+/vendor/symfony/css-selector/XPath/TranslatorInterface.php
+0 1 0 0 0 0
+/vendor/sebastian/version/src/Version.php
+0 1 0 0 0 0
+/vendor/phpunit/phpunit/ChangeLog-4.8.md
+0 1 0 11887 0 0
+/vendor/sebastian/code-unit-reverse-lookup/
+0 11 0 23243 0 0
+/vendor/symfony/finder/Tests/GlobTest.php
+0 1 0 146 0 0
+/vendor/fzaninotto/faker/src/Faker/
+0 1 0 2788 0 0
+/vendor/webmozart/assert/
+0 6 0 12594 0 0
+/storage/framework/cache/
+0 10 0 6880 0 0
+/vendor/laravel/tinker/src/Console/
+0 1 0 932 0 0
+/vendor/tijsverkoyen/css-to-inline-styles/LICENSE.md
+0 1 0 1491 0 0
+/vendor/mockery/mockery/CONTRIBUTING.md
+0 3 0 10170 0 0
+/vendor/sebastian/comparator/src/ComparisonFailure.php
+0 1 0 0 0 0
+/vendor/symfony/translation/
+0 6 0 38400 0 0
+/vendor/phpunit/php-text-template/LICENSE
+0 1 0 1548 0 0
+/error/403-forbidden.html
+0 3 0 5430 0 0
+/vendor/symfony/console/Tests/Logger/
+0 1 0 947 0 0
+/vendor/mockery/mockery/LICENSE
+0 3 0 4452 0 1
+/vendor/ramsey/uuid/src/
+0 5 0 16855 0 0
+/resources/assets/img/paper/paper_4.jpg
+0 2 0 18198 0 0
+/storage/logs/laravel.log
+0 3 0 4172375 0 0
+/vendor/phpunit/phpunit/tests/Runner/
+0 1 0 949 0 0
+/vendor/fzaninotto/faker/composer.json
+0 2 0 1520 0 0
+/vendor/symfony/translation/LICENSE
+0 1 0 1065 0 0
+/vendor/phpunit/phpunit/composer.json
+0 1 0 2101 0 0
+/resources/views/zb1/15.blade.php
+0 2 0 7650 0 0
+/vendor/symfony/event-dispatcher/Tests/DependencyInjection/
+0 1 0 1016 0 0
+/vendor/paragonie/random_compat/lib/random_int.php
+0 1 0 0 1 0
+/vendor/composer/ClassLoader.php
+0 2 0 0 0 0
+/vendor/phpunit/phpunit-mock-objects/tests/GeneratorTest.php
+0 1 0 164 0 0
+/vendor/symfony/polyfill-mbstring/composer.json
+0 1 0 879 0 0
+/vendor/phpdocumentor/type-resolver/examples/
+0 6 0 15102 0 0
+/vendor/sebastian/comparator/src/ObjectComparator.php
+0 1 0 176 0 0
+/storage/framework/views/a2bd7e8c20ef06125b9480da3d519d42a05d4543.php
+0 2 0 1452 0 0
+/vendor/symfony/console/
+0 10 0 53250 0 0
+/database/migrations/
+0 15 0 18225 0 0
+/vendor/league/flysystem/docs/integrations.md
+0 1 0 760 0 0
+/vendor/phpunit/phpunit-mock-objects/tests/bootstrap.php
+0 1 0 551 0 0
+/vendor/symfony/console/Helper/DebugFormatterHelper.php
+0 1 0 173 0 0
+/database/factories/
+0 15 0 13245 0 0
+/vendor/symfony/css-selector/Parser/ParserInterface.php
+0 1 0 0 0 0
+/vendor/vlucas/phpdotenv/LICENSE.txt
+0 1 0 1549 0 0
+/vendor/symfony/routing/Generator/
+0 1 0 1608 0 0
+/storage/framework/views/78282fba53bf4e75632f3f9219a5ac1839ed0565.php
+0 2 0 1450 0 0
+/vendor/symfony/event-dispatcher/GenericEvent.php
+0 1 0 167 0 0
+/vendor/symfony/finder/Iterator/RecursiveDirectoryIterator.php
+0 1 0 0 0 0
+/vendor/sebastian/comparator/build/
+0 5 0 4615 0 0
+/storage/framework/views/4d3d4a789e31dd34993283115a952c13a5b8b65a.php
+0 2 0 1444 0 0
+/vendor/psy/psysh/src/Psy/
+0 1 0 6023 0 0
+/app/Providers/AppServiceProvider.php
+0 2 0 298 0 0
+/vendor/symfony/debug/Exception/ClassNotFoundException.php
+0 1 0 190 0 0
+/vendor/myclabs/deep-copy/doc/
+0 6 0 9114 0 0
+/vendor/phpunit/php-code-coverage/phpunit.xml
+0 1 0 627 0 0
+/app/Providers/AuthServiceProvider.php
+0 2 0 350 0 0
+/vendor/sebastian/environment/
+0 11 0 20691 0 0
+/vendor/jakub-onderka/php-console-highlighter/examples/
+0 6 0 8550 0 0
+/storage/framework/views/0e0a18a2a762c16519ba532c9d15890c5c2ee4dc.php
+0 2 0 934 0 0
+/vendor/league/flysystem/docs/_layouts/
+0 1 0 3702 1 0
+/vendor/symfony/console/Tester/CommandTester.php
+0 1 0 0 0 0
+/vendor/nikic/php-parser/lib/
+0 7 0 7777 0 1
+/vendor/symfony/console/Tests/TerminalTest.php
+0 1 0 151 0 0
+/vendor/symfony/routing/Annotation/
+0 1 0 913 0 0
+/vendor/sebastian/resource-operations/composer.json
+0 1 0 601 0 0
+/vendor/nikic/php-parser/CHANGELOG.md
+0 3 0 46056 0 0
+/vendor/phpunit/php-code-coverage/ChangeLog-3.0.md
+0 1 0 910 0 0
+/vendor/phpdocumentor/reflection-docblock/tests/integration/
+0 1 0 1487 0 0
+/app/Http/Middleware/
+0 10 0 15570 0 0
+/vendor/league/flysystem/src/AdapterInterface.php
+0 1 0 161 0 0
+/vendor/symfony/http-foundation/Tests/AcceptHeaderItemTest.php
+0 1 0 167 0 0
+/vendor/swiftmailer/swiftmailer/tests/unit/
+0 1 0 936 0 0
+/vendor/symfony/finder/Tests/Iterator/
+0 1 0 4984 0 0
+/vendor/symfony/debug/Tests/Exception/
+0 1 0 953 0 0
+/vendor/symfony/debug/FatalErrorHandler/ClassNotFoundFatalErrorHandler.php
+0 1 0 225 0 0
+/vendor/monolog/monolog/doc/03-utilities.md
+0 1 0 798 0 0
+/vendor/ramsey/uuid/LICENSE
+0 1 0 1079 0 0
+/vendor/symfony/console/Output/NullOutput.php
+0 1 0 176 0 0
+/app/DTO/Question.php
+0 2 0 0 0 0
+/vendor/league/flysystem/src/FilesystemNotFoundException.php
+0 1 0 0 0 0
+/vendor/league/flysystem/src/FileExistsException.php
+0 1 0 156 0 0
+/vendor/hamcrest/hamcrest-php/generator/FactoryClass.php
+0 1 0 0 0 0
+/vendor/symfony/console/Style/SymfonyStyle.php
+0 1 0 168 0 0
+/vendor/swiftmailer/swiftmailer/tests/acceptance.conf.php.default
+0 1 0 0 0 0
+/vendor/mockery/mockery/CHANGELOG.md
+0 2 0 3370 0 0
+/resources/assets/less/
+0 10 0 6830 0 0
+/vendor/monolog/monolog/CHANGELOG.md
+0 2 0 37624 0 0
+/vendor/nikic/php-parser/grammar/
+0 6 0 11628 0 0
+/vendor/erusev/parsedown/Parsedown.php
+0 2 0 0 0 0
+/vendor/composer/autoload_static.php
+0 2 0 0 0 0
+/vendor/bin/psysh
+0 2 0 8316 0 0
+/vendor/symfony/translation/composer.json
+0 1 0 1215 0 0
+/vendor/league/flysystem/src/ReadInterface.php
+0 1 0 0 0 0
+/vendor/fzaninotto/faker/src/autoload.php
+0 1 0 0 0 0
+/config/view.php
+0 4 0 884 1 1
+/vendor/symfony/console/Command/ListCommand.php
+0 1 0 167 0 0
+/vendor/phpunit/php-code-coverage/ChangeLog-2.2.md
+0 1 0 2367 0 0
+/resources/views/zb1/einleitung_sprechen.blade.php
+0 2 0 3410 0 0
+/resources/assets/
+0 15 0 29955 0 0
+/vendor/symfony/console/Output/Output.php
+0 1 0 172 0 0
+/vendor/swiftmailer/swiftmailer/lib/dependency_maps/
+0 1 0 1609 0 0
+/vendor/nikic/php-parser/test_old/run.php
+0 1 0 56 0 0
+/vendor/symfony/yaml/Inline.php
+0 1 0 0 0 0
+/storage/framework/views/12b3301bd383d8da91a5306c8cbda7f9290a3566.php
+0 2 0 850 0 0
+/vendor/symfony/css-selector/Node/AbstractNode.php
+0 1 0 181 0 0
+/vendor/swiftmailer/swiftmailer/tests/StreamCollector.php
+0 1 0 0 0 0
+/vendor/phpunit/phpunit/src/Util/
+0 1 0 5046 0 0
+/vendor/jakub-onderka/php-console-highlighter/
+0 10 0 21160 0 0
+/vendor/symfony/console/Question/
+0 5 0 6815 0 0
+/vendor/mockery/mockery/docs/reference/
+0 1 0 4421 0 0
+/vendor/nikic/php-parser/doc/component/
+0 1 0 1164 0 0
+/vendor/nikic/php-parser/doc/3_Other_node_tree_representations.markdown
+0 1 0 8205 0 0
+/vendor/phpunit/phpunit/tests/
+0 5 0 12425 0 0
+/vendor/symfony/yaml/Yaml.php
+0 1 0 0 0 0
+/vendor/symfony/translation/Catalogue/
+0 1 0 1611 0 0
+/vendor/symfony/http-foundation/RequestMatcher.php
+0 1 0 189 0 0
+/resources/assets/img/paper/paper_3.jpg
+0 2 0 20002 0 0
+/storage/app/
+0 16 0 13584 1 0
+/vendor/symfony/console/Tests/EventListener/
+0 1 0 961 0 0
+/vendor/symfony/css-selector/Node/
+0 5 0 16410 0 0
+/vendor/symfony/console/Question/Question.php
+0 1 0 0 0 0
+/vendor/sebastian/exporter/src/
+0 5 0 4570 0 0
+/vendor/symfony/console/Descriptor/DescriptorInterface.php
+0 1 0 0 0 0
+/vendor/phpdocumentor/type-resolver/examples/01-resolving-simple-types.php
+0 1 0 439 0 0
+/app/Providers/EventServiceProvider.php
+0 2 0 354 0 0
+/vendor/sebastian/comparator/src/DOMNodeComparator.php
+0 1 0 178 0 0
+/vendor/symfony/finder/LICENSE
+0 1 0 1065 0 0
+/vendor/paragonie/
+0 15 0 13080 0 0
+/vendor/mockery/mockery/library/Mockery.php
+0 1 0 0 0 0
+/vendor/doctrine/inflector/composer.json
+0 2 0 1940 0 0
+/vendor/phpunit/phpunit/src/
+0 5 0 10575 0 0
+/vendor/hamcrest/hamcrest-php/composer.json
+0 2 0 1168 0 0
+/vendor/symfony/var-dumper/Tests/
+0 1 0 1687 0 0
+/vendor/composer/LICENSE
+0 2 0 2140 0 0
+/vendor/symfony/translation/IdentityTranslator.php
+0 1 0 182 0 0
+/vendor/symfony/css-selector/Parser/TokenStream.php
+0 1 0 0 0 0
+/vendor/hamcrest/hamcrest-php/
+0 10 0 20940 0 0
+/vendor/symfony/finder/Iterator/DepthRangeFilterIterator.php
+0 1 0 187 0 0
+/vendor/sebastian/object-enumerator/src/Exception.php
+0 1 0 0 0 0
+/vendor/symfony/yaml/Tag/
+0 1 0 902 0 0
+/vendor/symfony/event-dispatcher/ImmutableEventDispatcher.php
+0 1 0 202 0 0
+/vendor/doctrine/instantiator/tests/
+0 6 0 5568 0 0
+/vendor/symfony/event-dispatcher/Tests/Debug/
+0 1 0 994 0 0
+/vendor/symfony/console/Output/BufferedOutput.php
+0 1 0 167 0 0
+/routes/
+0 21 0 30198 1 0
+/vendor/phpdocumentor/reflection-docblock/LICENSE
+0 3 0 3240 0 1
+/vendor/nikic/php-parser/test/bootstrap.php
+0 1 0 499 0 0
+/vendor/symfony/debug/LICENSE
+0 1 0 1065 0 0
+/vendor/phpunit/phpunit/build.xml
+0 1 0 18770 0 0
+/vendor/swiftmailer/swiftmailer/lib/classes/
+0 1 0 1136 0 0
+/vendor/sebastian/global-state/LICENSE
+0 2 0 3092 0 0
+/vendor/symfony/console/Exception/LogicException.php
+0 1 0 189 0 0
+/vendor/mockery/mockery/docs/
+0 7 0 13200 0 0
+/vendor/phpunit/phpunit/LICENSE
+0 1 0 1542 0 0
+/vendor/symfony/css-selector/Node/NegationNode.php
+0 1 0 176 0 0
+/vendor/symfony/http-kernel/Log/
+0 1 0 941 0 0
+/vendor/symfony/console/Event/ConsoleEvent.php
+0 1 0 164 0 0
+/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/
+0 1 0 5558 0 0
+/vendor/symfony/http-kernel/KernelInterface.php
+0 1 0 178 0 0
+/vendor/symfony/event-dispatcher/composer.json
+0 1 0 1192 0 0
+/vendor/nikic/php-parser/phpunit.xml.dist
+0 3 0 2082 0 0
+/error/401-authorization.html
+0 4 0 7976 1 1
+/vendor/sebastian/global-state/phpunit.xml.dist
+0 1 0 658 0 0
+/vendor/paragonie/random_compat/lib/cast_to_int.php
+0 1 0 0 0 0
+/vendor/symfony/translation/MessageCatalogue.php
+0 1 0 186 0 0
+/vendor/league/flysystem/src/SafeStorage.php
+0 1 0 0 0 0
+/resources/assets/fonts/fontawesome-webfont.woff2
+0 2 0 154320 0 0
+/vendor/league/flysystem/src/ConfigAwareTrait.php
+0 1 0 0 0 0
+/vendor/mockery/mockery/docs/cookbook/
+0 1 0 1817 0 0
+/vendor/phpunit/phpunit/
+0 10 0 59050 0 0
+/resources/assets/fonts/
+0 10 0 20420 0 0
+/vendor/symfony/http-kernel/TerminableInterface.php
+0 1 0 0 0 0
+/package.json
+0 5 0 5310 0 0
+/vendor/sebastian/object-enumerator/
+0 11 0 23089 0 0
+/vendor/phpunit/phpunit/tests/TextUI/
+0 1 0 22196 0 0
+/storage/framework/views/032292b4a79e57c4dd14a50f3927ef8acaf9e057.php
+0 2 0 7216 0 0
+/resources/views/zb1/0.blade.php
+0 2 0 2960 0 0
+/vendor/sebastian/diff/src/Chunk.php
+0 1 0 0 0 0
+/vendor/symfony/process/Exception/
+0 1 0 2087 0 0
+/vendor/symfony/css-selector/XPath/
+0 5 0 7825 0 0
+/vendor/sebastian/recursion-context/tests/ContextTest.php
+0 1 0 162 0 0
+/vendor/phpunit/php-code-coverage/ChangeLog-4.0.md
+0 1 0 2225 0 0
+/vendor/mtdowling/cron-expression/src/
+0 6 0 5520 0 0
+/vendor/phpunit/php-code-coverage/build.xml
+0 1 0 794 0 0
+/database/seeds/
+0 16 0 14064 1 1
+/vendor/symfony/http-kernel/CacheWarmer/
+0 1 0 1623 0 0
+/vendor/phpdocumentor/type-resolver/tests/
+0 6 0 5580 0 0
+/vendor/fzaninotto/faker/LICENSE
+0 2 0 2372 0 0
+/vendor/nikic/php-parser/
+0 11 0 36201 0 1
+/vendor/nikic/php-parser/doc/0_Introduction.markdown
+0 2 0 7006 0 0
+/vendor/psr/log/Psr/
+0 6 0 5184 0 0
+/vendor/monolog/monolog/doc/02-handlers-formatters-processors.md
+0 1 0 9951 0 0
+/vendor/symfony/console/Exception/
+0 5 0 10435 0 0
+/storage/framework/views/fcb3cc857e2db1f3a573be41b26548da68b9a9c0.php
+0 2 0 926 0 0
+/vendor/sebastian/comparator/phpunit.xml.dist
+0 3 0 1857 0 0
+/database/migrations/2014_10_12_000000_create_users_table.php
+0 2 0 358 0 0
+/vendor/hamcrest/hamcrest-php/generator/FactoryFile.php
+0 1 0 0 0 0
+/vendor/symfony/yaml/CHANGELOG.md
+0 1 0 3422 0 0
+/vendor/psr/log/Psr/Log/
+0 2 0 5268 0 1
+/vendor/phpunit/php-code-coverage/ChangeLog-3.2.md
+0 1 0 689 0 0
+/resources/assets/img/paper/paper_2.jpg
+0 2 0 21380 0 0
+/vendor/phpspec/prophecy/src/
+0 6 0 5406 0 0
+/vendor/swiftmailer/
+0 12 0 10464 0 0
+/vendor/swiftmailer/swiftmailer/tests/bug/
+0 1 0 934 0 0
+/vendor/paragonie/random_compat/psalm.xml
+0 1 0 387 0 0
+/vendor/phpunit/phpunit-mock-objects/composer.json
+0 1 0 1233 0 0
+/vendor/symfony/console/Question/ChoiceQuestion.php
+0 1 0 173 0 0
+/vendor/phpspec/prophecy/fixtures/EmptyInterface.php
+0 2 0 0 0 0
+/vendor/hamcrest/hamcrest-php/CHANGES.txt
+0 1 0 5256 0 0
+/vendor/hamcrest/hamcrest-php/tests/
+0 6 0 8052 0 0
+/vendor/symfony/http-kernel/composer.json
+0 1 0 2031 0 0
+/vendor/phpunit/php-file-iterator/src/Facade.php
+0 1 0 0 0 0
+/vendor/hamcrest/hamcrest-php/hamcrest/
+0 6 0 6792 0 0
+/vendor/phpdocumentor/type-resolver/examples/02-resolving-classes.php
+0 1 0 429 0 0
+/vendor/symfony/yaml/Command/
+0 1 0 910 0 0
+/storage/framework/views/e548a45516000f258041440a6651cc0464587d9a.php
+0 2 0 1004 0 0
+/vendor/sebastian/exporter/src/Exporter.php
+0 1 0 0 0 0
+/vendor/symfony/polyfill-mbstring/bootstrap.php
+0 1 0 0 0 0
+/vendor/nikic/php-parser/UPGRADE-1.0.md
+0 2 0 9522 0 0
+/vendor/sebastian/comparator/tests/ScalarComparatorTest.php
+0 1 0 164 0 0
+/vendor/swiftmailer/swiftmailer/tests/bootstrap.php
+0 1 0 523 0 0
+/resources/assets/fonts/fontawesome-webfont.svg
+0 2 0 888758 0 0
+/vendor/symfony/routing/Tests/
+0 1 0 3481 0 0
+/vendor/symfony/finder/Iterator/
+0 5 0 18770 0 0
+/resources/views/zb1/3.blade.php
+0 2 0 1228 0 0
+/vendor/paragonie/random_compat/lib/random_bytes_dev_urandom.php
+0 1 0 0 0 0
+/vendor/sebastian/global-state/src/Exception.php
+0 1 0 0 0 0
+/app/Http/Controllers/Auth/ResetPasswordController.php
+0 1 0 163 0 0
+/vendor/swiftmailer/swiftmailer/tests/SwiftMailerTestCase.php
+0 1 0 165 0 0
+/vendor/symfony/css-selector/Parser/Tokenizer/
+0 1 0 1403 0 0
+/app/Exceptions/
+0 15 0 12900 0 0
+/vendor/phpunit/php-token-stream/tests/bootstrap.php
+0 1 0 535 0 0
+/vendor/sebastian/comparator/src/DoubleComparator.php
+0 1 0 178 0 0
+/vendor/doctrine/instantiator/composer.json
+0 2 0 2680 0 0
+/vendor/nikic/php-parser/doc/4_Code_generation.markdown
+0 1 0 2749 0 0
+/vendor/symfony/http-kernel/Bundle/
+0 1 0 1139 0 0
+/vendor/symfony/css-selector/Node/AttributeNode.php
+0 1 0 177 0 0
+/vendor/sebastian/comparator/
+0 11 0 22935 0 0
+/vendor/sebastian/exporter/tests/
+0 5 0 4630 0 0
+/vendor/symfony/debug/Exception/SilencedErrorContext.php
+0 1 0 0 0 0
+/vendor/symfony/http-kernel/DependencyInjection/
+0 1 0 3187 0 0
+/vendor/symfony/css-selector/composer.json
+0 1 0 893 0 0
+/vendor/psy/psysh/bin/
+0 6 0 12570 1 0
+/resources/views/test.blade.php
+0 2 0 7232 0 0
+/vendor/phpdocumentor/type-resolver/examples/05-discovering-the-context-using-method-reflection.php
+0 1 0 489 0 0
+/vendor/doctrine/instantiator/tests/DoctrineTest/
+0 1 0 1422 0 0
+/vendor/monolog/monolog/tests/
+0 6 0 5400 0 0
+/app/Http/Controllers/
+0 10 0 10740 0 0
+/vendor/monolog/
+0 15 0 12840 0 0
+/vendor/paragonie/random_compat/LICENSE
+0 2 0 2196 0 0
+/vendor/phpspec/prophecy/fixtures/FinalClass.php
+0 2 0 0 0 0
+/vendor/sebastian/diff/tests/ParserTest.php
+0 1 0 148 0 1
+/vendor/mockery/mockery/docs/conf.py
+0 1 0 8442 0 0
+/vendor/sebastian/object-enumerator/ChangeLog.md
+0 1 0 681 0 0
+/vendor/sebastian/global-state/composer.json
+0 1 0 779 0 0
+/app/Http/Kernel.php
+0 2 0 262 0 0
+/vendor/doctrine/instantiator/phpunit.xml.dist
+0 2 0 1270 0 0
+/app/Console/
+0 15 0 12780 0 0
+/vendor/paragonie/random_compat/
+0 10 0 23000 0 0
+/vendor/mockery/mockery/tests/Bootstrap.php
+0 1 0 356 0 0
+/vendor/phpspec/prophecy/fixtures/WithVirtuallyPrivateMethod.php
+0 2 0 0 0 1
+/vendor/swiftmailer/swiftmailer/doc/help-resources.rst
+0 1 0 1686 0 0
+/vendor/symfony/console/Helper/TableSeparator.php
+0 1 0 170 0 0
+/vendor/sebastian/diff/phpunit.xml
+0 2 0 1386 0 0
+/vendor/tijsverkoyen/
+0 11 0 9812 0 0
+/vendor/phpunit/php-token-stream/tests/Token/
+0 1 0 2026 0 0
+/vendor/phpdocumentor/reflection-common/tests/
+0 6 0 6822 0 0
+/vendor/symfony/css-selector/Node/CombinedSelectorNode.php
+0 1 0 184 0 0
+/vendor/sebastian/diff/tests/LineTest.php
+0 1 0 146 1 0
+/vendor/sebastian/version/src/
+0 5 0 4545 0 0
+/vendor/phpunit/phpunit/ChangeLog-4.1.md
+0 1 0 3556 0 0
+/vendor/paragonie/random_compat/dist/random_compat.phar.pubkey.asc
+0 1 0 488 0 0
+/vendor/phpspec/prophecy/spec/Prophecy/
+0 3 0 8802 1 1
+/vendor/symfony/translation/Exception/
+0 1 0 2105 0 0
+/resources/views/zb1/6.blade.php
+0 2 0 1228 0 0
+/app/Http/
+0 15 0 18810 0 0
+/vendor/psy/psysh/bin/build-vendor-compat
+0 2 0 1108 0 0
+/vendor/webmozart/assert/tests/
+0 1 0 916 0 0
+/vendor/phpunit/phpunit/src/Extensions/
+0 1 0 2021 0 0
+/vendor/phpunit/php-code-coverage/src/Exception/
+0 1 0 2187 0 0
+/vendor/mockery/mockery/examples/
+0 6 0 5448 0 0
+/config/filesystems.php
+0 3 0 675 0 0
+/vendor/symfony/process/Pipes/
+0 1 0 1559 0 0
+/vendor/nesbot/carbon/
+0 10 0 14710 0 0
+/vendor/symfony/console/Event/ConsoleCommandEvent.php
+0 1 0 176 0 0
+/vendor/symfony/polyfill-mbstring/
+0 6 0 10332 0 0
+/vendor/league/flysystem/src/FilesystemInterface.php
+0 1 0 0 0 0
+/vendor/mockery/mockery/travis/script.sh
+0 2 0 492 0 0
+/vendor/sebastian/comparator/tests/ExceptionComparatorTest.php
+0 1 0 167 0 0
+/vendor/psy/psysh/phpunit.xml.dist
+0 1 0 319 0 0
+/storage/framework/views/27961dcb39a18ab5487441d1942352cae15822e6.php
+0 2 0 7846 0 0
+/vendor/symfony/http-kernel/LICENSE
+0 1 0 1065 0 0
+/vendor/symfony/http-foundation/ExpressionRequestMatcher.php
+0 1 0 186 0 0
+/vendor/sebastian/resource-operations/build/
+0 5 0 4755 0 0
+/vendor/phpdocumentor/type-resolver/examples/Classy.php
+0 1 0 0 0 0
+/resources/assets/img/paper/paper_1.jpg
+0 2 0 22812 0 0
+/vendor/sebastian/comparator/tests/_files/
+0 1 0 2212 0 0
+/vendor/symfony/translation/MessageCatalogueInterface.php
+0 1 0 0 0 0
+/resources/assets/css/app.css
+0 1 0 829543 0 0
+/vendor/autoload.php
+0 4 0 0 1 0
+/vendor/phpspec/prophecy/fixtures/WithReferences.php
+0 2 0 0 0 0
+/vendor/symfony/console/Input/StreamableInputInterface.php
+0 1 0 187 0 0
+/vendor/symfony/yaml/Exception/
+0 1 0 1584 0 0
+/vendor/phpdocumentor/reflection-common/src/Location.php
+0 1 0 0 0 0
+/vendor/swiftmailer/swiftmailer/doc/
+0 6 0 16101 0 0
+# End Of Table - urls
+# -sites- (monthly)
+82.80.249.211
+0 1 1 3650 1 1531811726
+/
+5.189.162.237
+0 2 0 2040 1 1532161546
+-
+82.80.249.219
+0 2919 2914 11063003 5 1531814425
+/vendor/symfony/http-foundation/Tests/AcceptHeaderTest.php
+107.150.23.230
+0 2 0 474 1 1531271065
+-
+157.55.39.254
+0 1 1 3207 0 0
+-
+80.93.187.145
+0 1 1 3650 1 1531817876
+/
+213.32.22.124
+0 2 1 1868 1 1530619542
+/
+218.66.74.104
+0 1 0 0 1 1530677964
+-
+192.42.116.16
+0 2 0 2026 0 0
+-
+64.246.165.210
+0 2 1 1868 1 1530593016
+/
+54.36.148.205
+0 1 1 122161 0 0
+-
+158.46.167.13
+0 1 0 214 1 1530766745
+/
+5.9.65.19
+0 2 1 1868 1 1531579436
+/
+54.36.148.228
+0 1 1 1219 1 1532096969
+/storage/
+54.36.148.229
+0 1 1 3650 1 1532083676
+/
+198.143.158.180
+0 1 1 72 1 1530742849
+/
+95.163.255.222
+0 1 0 1796 0 0
+-
+95.181.179.64
+0 2 1 3864 1 1532453605
+/
+40.77.167.65
+0 1 0 1796 0 0
+-
+54.36.148.243
+0 1 1 1438 1 1532063118
+/routes/
+54.36.148.245
+0 1 1 3650 1 1532083953
+/
+208.110.93.52
+0 2 0 3592 1 1531693539
+-
+185.234.217.33
+0 2 0 452 1 1531966762
+-
+185.234.217.34
+0 2 0 452 1 1531500155
+-
+151.106.53.185
+0 7 1 10848 1 1530763235
+-
+54.36.148.255
+0 1 1 2020 1 1532102799
+/app/
+95.163.255.242
+0 1 1 3650 1 1532142463
+/
+185.234.217.47
+0 2 0 452 1 1532420495
+-
+185.234.217.48
+0 2 0 452 1 1531846743
+-
+143.191.195.32
+0 2 1 3864 1 1532037638
+/
+77.75.78.165
+0 2 0 3592 0 0
+-
+144.76.38.40
+0 2 0 3592 1 1530908061
+-
+54.36.149.5
+0 1 1 3650 1 1532027917
+/
+54.36.149.13
+0 1 1 1646 1 1532028572
+/artisan
+54.36.149.19
+0 1 0 1796 0 0
+-
+54.36.149.26
+0 1 1 2868 1 1532092428
+/config/
+54.36.149.28
+0 1 1 6587 1 1532103576
+/vendor/
+195.22.127.231
+0 96 0 0 1 1532508884
+-
+162.210.196.100
+0 2 1 1868 1 1530861764
+/
+54.36.149.34
+0 1 1 1735 1 1532024925
+/error/
+195.201.192.60
+0 2 1 1868 1 1531438306
+/
+217.160.62.224
+0 2 0 3592 1 1532129330
+-
+37.59.4.151
+0 1 1 72 1 1531068581
+/
+54.36.149.43
+0 1 1 72 1 1531260192
+/
+54.36.149.49
+0 1 1 1221 1 1532086133
+/resources/
+62.102.148.154
+0 3 0 710 2 1532218855
+-
+216.158.82.135
+0 13 1 25216 1 1532483256
+-
+193.106.30.99
+0 2 1 3864 1 1531818152
+/
+54.36.149.69
+0 1 1 1062 0 0
+-
+162.210.196.98
+0 2 1 1868 1 1530776027
+/
+5.9.110.164
+0 2 1 1868 1 1531013217
+/
+217.149.175.77
+0 2 1 1868 1 1530986198
+/
+54.36.149.74
+0 1 0 1796 0 0
+-
+185.220.101.3
+0 2 1 3864 1 1532055506
+/
+198.27.83.216
+0 2 0 3592 1 1532552739
+-
+218.66.74.30
+0 1 0 0 1 1530677893
+-
+54.36.149.91
+0 1 1 555 0 0
+-
+54.36.149.94
+0 1 0 1796 0 0
+-
+188.243.40.83
+0 2 1 3864 1 1532291757
+/
+198.204.243.138
+0 2 1 1868 1 1531110820
+/
+81.25.226.68
+0 1 0 0 1 1530643778
+-
+120.35.38.117
+0 1 0 1796 1 1531267195
+-
+193.169.252.181
+0 2 0 452 1 1530738714
+-
+193.169.252.183
+0 5 1 945 1 1531395853
+-
+217.75.176.70
+0 6 0 10776 0 0
+-
+193.169.252.185
+0 2 0 452 1 1531262390
+-
+218.66.74.88
+0 1 0 1796 1 1531266581
+-
+67.225.241.143
+0 2 0 2028 0 0
+-
+157.55.39.118
+0 1 0 1796 0 0
+-
+83.136.32.140
+0 7 2 11544 4 1531978918
+/
+82.80.230.228
+0 25 12 671146 0 0
+-
+136.243.173.231
+0 4 2 3736 1 1531604229
+/
+185.46.8.135
+0 9 2 9052 1 1531491595
+-
+52.53.201.78
+0 11 11 18682 11 1532563471
+/
+62.138.0.25
+0 4 1 2306 1 1531145524
+/
+77.75.77.36
+0 2 0 3592 0 0
+-
+54.36.150.1
+0 8 0 14368 0 0
+-
+89.144.12.17
+0 2 0 2020 0 0
+-
+82.80.249.143
+0 3 1 13593 0 0
+-
+176.31.126.56
+0 1000 592 2791740 1 1531885049
+-
+72.18.198.86
+0 2 0 2040 1 1532408433
+-
+82.80.249.164
+0 3 0 5388 1 1531815784
+/vendor/league/flysystem/docs/_layouts/
+85.25.202.18
+0 2 2 7300 1 1532534875
+/
+194.37.230.36
+0 130 128 355409 1 1532211441
+/vendor/webmozart/
+54.36.148.104
+0 1 0 1796 0 0
+-
+194.37.230.41
+0 2 1 3650 2 1531757806
+/
+54.36.148.109
+0 1 0 1796 0 0
+-
+198.20.103.245
+0 1 1 3650 1 1532516837
+/
+138.201.117.67
+0 3 2 1940 1 1531112242
+/
+66.249.70.19
+0 6 0 1314 3 1531978348
+/
+107.150.23.199
+0 2 0 452 1 1531555790
+-
+66.246.224.12
+0 10 5 19336 3 1531859334
+/
+66.249.70.21
+0 2 0 438 1 1531402076
+/
+66.249.70.23
+0 3 0 652 2 1531712187
+/
+95.163.255.82
+0 1 0 1796 0 0
+-
+95.163.255.83
+0 1 0 1796 0 0
+-
+95.163.255.84
+0 2 0 3592 2 1531359229
+-
+95.163.255.85
+0 1 0 1796 0 0
+-
+95.163.255.86
+0 4 0 7184 3 1531414315
+-
+95.163.255.88
+0 1 0 1796 0 0
+-
+95.163.255.89
+0 1 0 1796 1 1530975443
+-
+46.229.170.197
+0 1 1 72 1 1531674043
+/
+54.36.148.145
+0 1 1 72 1 1530528619
+/
+46.148.22.210
+0 2 1 286 1 1530425617
+/
+54.36.148.24
+0 1 1 3650 1 1532102823
+/
+54.36.148.151
+0 1 0 1796 1 1532030638
+-
+54.36.148.153
+0 1 1 1300 0 0
+-
+64.246.165.180
+0 2 1 5446 1 1532142444
+/
+78.47.244.172
+0 2 0 3592 1 1531169590
+-
+199.58.86.206
+0 2 1 1868 1 1530728869
+/
+107.6.169.251
+0 1 1 72 1 1530603858
+/
+77.75.79.95
+0 2 0 3592 0 0
+-
+54.36.148.46
+0 1 1 1237 1 1532086420
+/bootstrap/
+54.36.148.48
+0 1 0 33507 1 1532100551
+-
+54.36.148.49
+0 1 1 0 1 1532063900
+/error_logs/
+62.210.181.138
+0 2 1 286 1 1531265898
+/
+54.36.148.186
+0 1 1 1237 1 1532031345
+/database/
+54.36.148.195
+0 1 1 3650 1 1531956338
+/
+138.201.30.66
+0 11 9 26817 2 1532053846
+/bootstrap/
+108.59.8.70
+0 2 1 1868 1 1531227195
+/
+54.36.148.83
+0 1 0 1796 0 0
+-
+54.36.148.87
+0 1 0 1796 1 1531738939
+-
+54.36.148.96
+0 1 1 3650 1 1532078247
+/
+66.249.64.130
+0 50 40 93715 16 1532535706
+/routes/api.php
+168.1.128.37
+0 1 1 3650 1 1532426601
+/
+188.165.200.217
+0 6 0 0 6 1532242685
+/
+66.249.64.157
+0 87 76 2193475 17 1532483364
+/app/User.php
+66.249.64.159
+0 65 53 119109 20 1532471061
+/vendor/psr/log/Psr/Log/LoggerAwareTrait.php
+40.77.167.163
+0 1 0 1796 1 1531737189
+-
+50.97.123.146
+0 1 0 1796 1 1531881338
+-
+207.46.13.102
+0 1 0 1796 1 1532178104
+-
+88.198.140.4
+0 3 2 5518 2 1532387489
+/
+54.175.125.44
+0 1 1 3650 1 1532019696
+/
+163.172.32.18
+0 2 1 286 1 1530915724
+/
+157.55.39.53
+0 2 0 3592 0 0
+-
+149.202.82.11
+0 2 0 3592 1 1531956799
+-
+157.55.39.70
+0 1 0 1796 0 0
+-
+143.205.99.83
+0 11 0 19756 0 0
+-
+178.63.26.114
+0 2 0 3592 1 1532221217
+-
+144.217.15.227
+0 2 0 2035 1 1532501138
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+52.53.201.78
+0 1 1 3650 1 1532563471
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.edv-napetschnig.at/vendor/symfony/console/DependencyInjection/
+1 5
+http://www.edv-napetschnig.at/vendor/sebastian/comparator/
+1 15
+http://www.edv-napetschnig.at/vendor/sebastian/exporter/tests/
+1 5
+http://www.edv-napetschnig.at/resources/views/test.blade.php
+1 1
+http://www.edv-napetschnig.at/vendor/doctrine/instantiator/src/
+1 5
+http://www.edv-napetschnig.at/app/Console/
+1 9
+- (Direct Request)
+0 1563
+http://www.edv-napetschnig.at/vendor/tijsverkoyen/
+1 9
+http://www.edv-napetschnig.at/vendor/symfony/debug/Resources/
+1 5
+http://www.edv-napetschnig.at/vendor/mockery/mockery/examples/
+1 5
+http://edv-napetschnig.at/administrator/index.php
+0 2
+http://edv-napetschnig.at/admin/index.php
+0 2
+http://www.edv-napetschnig.at/vendor/nikic/php-parser/test_old/
+1 6
+http://www.edv-napetschnig.at/vendor/
+1 72
+https://google.com
+0 1
+http://www.edv-napetschnig.at/vendor/bin/
+1 11
+http://www.edv-napetschnig.at/vendor/symfony/console/Command/
+1 8
+http://www.edv-napetschnig.at/vendor/phpdocumentor/reflection-docblock/
+1 16
+http://www.edv-napetschnig.at/vendor/symfony/http-foundation/Tests/
+1 6
+http://www.edv-napetschnig.at/vendor/symfony/routing/
+1 25
+http://www.edv-napetschnig.at/vendor/sebastian/diff/
+1 14
+http://www.edv-napetschnig.at/vendor/league/
+1 9
+http://www.edv-napetschnig.at/vendor/fzaninotto/
+1 9
+http://www.edv-napetschnig.at/vendor/vlucas/phpdotenv/
+1 7
+http://www.edv-napetschnig.at/error/
+1 22
+http://www.edv-napetschnig.at/resources/
+1 18
+http://www.edv-napetschnig.at/vendor/symfony/finder/Exception/
+1 6
+http://www.edv-napetschnig.at/vendor/nikic/
+1 9
+http://www.edv-napetschnig.at/vendor/phpdocumentor/reflection-common/src/
+1 10
+http://www.edv-napetschnig.at/resources/lang/en/
+1 12
+http://www.edv-napetschnig.at/vendor/vlucas/
+1 9
+http://www.edv-napetschnig.at/vendor/laravel/framework/src/
+1 5
+http://www.edv-napetschnig.at/vendor/symfony/console/Tester/
+1 6
+http://www.edv-napetschnig.at/
+1 58
+http://www.edv-napetschnig.at/storage/framework/sessions/
+1 9
+http://www.edv-napetschnig.at/vendor/nikic/php-parser/test/
+1 7
+http://www.edv-napetschnig.at/vendor/symfony/console/Input/
+1 14
+http://www.edv-napetschnig.at/vendor/dnoegel/php-xdg-base-dir/tests/
+1 5
+http://www.edv-napetschnig.at/vendor/jakub-onderka/php-console-color/tests/
+1 6
+http://www.edv-napetschnig.at/resources/assets/js/
+1 9
+http://www.edv-napetschnig.at/vendor/doctrine/inflector/tests/
+1 5
+http://www.edv-napetschnig.at/vendor/dnoegel/php-xdg-base-dir/src/
+1 5
+http://edv-napetschnig.at/wp-login.php
+0 14
+http://www.edv-napetschnig.at/vendor/phpunit/
+1 15
+http://www.edv-napetschnig.at/vendor/sebastian/environment/tests/
+1 6
+http://www.edv-napetschnig.at/storage/framework/testing/
+1 8
+http://www.edv-napetschnig.at/vendor/dnoegel/php-xdg-base-dir/
+1 13
+http://www.edv-napetschnig.at/vendor/mockery/
+1 9
+http://www.edv-napetschnig.at/vendor/sebastian/resource-operations/
+1 13
+http://www.edv-napetschnig.at/vendor/fzaninotto/faker/src/
+1 6
+edv-napetschnig.at
+0 9
+http://www.edv-napetschnig.at/vendor/laravel/framework/
+1 11
+http://hundejo.com/
+0 2
+http://www.edv-napetschnig.at/vendor/erusev/parsedown/test/
+1 9
+http://www.edv-napetschnig.at/bootstrap/
+1 18
+http://www.edv-napetschnig.at/storage/framework/views/
+1 40
+http://www.edv-napetschnig.at/vendor/phpunit/php-timer/tests/
+1 5
+http://www.edv-napetschnig.at/vendor/symfony/css-selector/Exception/
+1 9
+http://www.edv-napetschnig.at/vendor/sebastian/recursion-context/tests/
+1 5
+http://www.edv-napetschnig.at/vendor/swiftmailer/swiftmailer/
+1 16
+http://www.edv-napetschnig.at/vendor/phpunit/php-token-stream/tests/
+1 8
+http://www.edv-napetschnig.at/vendor/jakub-onderka/
+1 10
+http://www.edv-napetschnig.at/vendor/jakub-onderka/php-console-highlighter/tests/
+1 6
+http://www.edv-napetschnig.at/vendor/phpunit/php-code-coverage/tests/
+1 8
+http://www.edv-napetschnig.at/vendor/erusev/parsedown/
+1 13
+http://www.edv-napetschnig.at/vendor/symfony/http-kernel/
+1 33
+http://www.edv-napetschnig.at/config/
+1 34
+http://www.edv-napetschnig.at/vendor/doctrine/
+1 10
+http://www.edv-napetschnig.at/vendor/phpspec/
+1 9
+http://www.edv-napetschnig.at/vendor/swiftmailer/swiftmailer/tests/
+1 17
+http://www.edv-napetschnig.at/vendor/paragonie/random_compat/dist/
+1 6
+http://www.edv-napetschnig.at/vendor/paragonie/random_compat/other/
+1 5
+http://www.edv-napetschnig.at/vendor/psy/psysh/src/
+1 5
+http://www.edv-napetschnig.at/vendor/phpdocumentor/type-resolver/
+1 15
+http://www.edv-napetschnig.at/vendor/jakub-onderka/php-console-color/src/
+1 5
+http://www.edv-napetschnig.at/vendor/phpunit/phpunit-mock-objects/tests/
+1 11
+http://www.edv-napetschnig.at/vendor/symfony/console/Logger/
+1 5
+http://www.edv-napetschnig.at/vendor/symfony/console/Descriptor/
+1 11
+http://www.edv-napetschnig.at/vendor/mtdowling/cron-expression/
+1 13
+http://www.edv-napetschnig.at/vendor/hamcrest/hamcrest-php/generator/
+1 14
+http://www.edv-napetschnig.at/vendor/laravel/tinker/src/
+1 7
+http://www.edv-napetschnig.at/vendor/phpspec/prophecy/tests/
+1 5
+http://www.edv-napetschnig.at/vendor/sebastian/
+1 18
+http://www.edv-napetschnig.at/vendor/ramsey/uuid/
+1 14
+http://www.edv-napetschnig.at/vendor/mtdowling/
+1 9
+http://www.edv-napetschnig.at/vendor/sebastian/global-state/src/
+1 10
+http://www.edv-napetschnig.at/vendor/symfony/var-dumper/
+1 16
+http://www.edv-napetschnig.at/database/
+1 18
+http://www.edv-napetschnig.at/resources/views/zb1/vorwort.blade.php
+1 1
+http://www.edv-napetschnig.at/resources/assets/sass/
+1 10
+http://www.edv-napetschnig.at/storage/app/public/
+1 10
+http://www.edv-napetschnig.at/vendor/erusev/
+1 9
+http://www.edv-napetschnig.at/vendor/symfony/event-dispatcher/DependencyInjection/
+1 5
+http://www.edv-napetschnig.at/vendor/symfony/css-selector/Parser/
+1 12
+http://www.edv-napetschnig.at/vendor/phpunit/php-file-iterator/src/
+1 7
+http://www.edv-napetschnig.at/vendor/paragonie/random_compat/lib/
+1 14
+http://www.edv-napetschnig.at/resources/assets/img/paper/
+1 8
+http://www.edv-napetschnig.at/vendor/symfony/http-foundation/Exception/
+1 7
+http://www.edv-napetschnig.at/vendor/symfony/event-dispatcher/Debug/
+1 7
+http://www.edv-napetschnig.at/vendor/hamcrest/
+1 9
+http://www.edv-napetschnig.at/vendor/phpdocumentor/reflection-docblock/src/
+1 8
+http://www.edv-napetschnig.at/vendor/phpdocumentor/reflection-docblock/examples/
+1 9
+http://edv-napetschnig.at
+0 1
+http://www.edv-napetschnig.at/vendor/phpunit/php-timer/
+1 13
+http://www.edv-napetschnig.at/vendor/nikic/php-parser/doc/
+1 9
+http://www.edv-napetschnig.at/vendor/dnoegel/
+1 9
+http://www.edv-napetschnig.at/vendor/symfony/finder/Comparator/
+1 7
+http://www.edv-napetschnig.at/vendor/phpunit/php-token-stream/build/
+1 5
+http://www.edv-napetschnig.at/vendor/league/flysystem/src/
+1 27
+http://www.edv-napetschnig.at/vendor/symfony/css-selector/Tests/
+1 8
+http://www.edv-napetschnig.at/vendor/myclabs/
+1 9
+http://www.edv-napetschnig.at/vendor/myclabs/deep-copy/src/
+1 5
+http://www.edv-napetschnig.at/vendor/symfony/finder/
+1 19
+http://www.edv-napetschnig.at/vendor/mockery/mockery/travis/
+1 9
+http://www.edv-napetschnig.at/resources/lang/
+1 9
+http://www.edv-napetschnig.at/app/Providers/
+1 13
+http://www.edv-napetschnig.at/resources/assets/scss/
+1 8
+http://www.edv-napetschnig.at/vendor/phpunit/phpunit-mock-objects/src/
+1 5
+http://www.edv-napetschnig.at/vendor/nesbot/carbon/src/
+1 5
+http://www.edv-napetschnig.at/vendor/tijsverkoyen/css-to-inline-styles/
+1 8
+http://www.edv-napetschnig.at/app/DTO/
+1 11
+http://www.edv-napetschnig.at/vendor/jakub-onderka/php-console-highlighter/src/
+1 5
+http://www.edv-napetschnig.at/vendor/phpunit/phpunit-mock-objects/build/
+1 5
+http://www.edv-napetschnig.at/vendor/phpspec/prophecy/spec/
+1 5
+http://www.edv-napetschnig.at/vendor/symfony/debug/FatalErrorHandler/
+1 8
+http://www.edv-napetschnig.at/vendor/phpdocumentor/reflection-common/
+1 14
+http://www.edv-napetschnig.at/app/
+1 26
+http://www.edv-napetschnig.at/resources/assets/css/
+1 9
+http://www.edv-napetschnig.at/vendor/doctrine/instantiator/
+1 15
+http://www.edv-napetschnig.at/vendor/symfony/debug/Exception/
+1 13
+http://www.edv-napetschnig.at/storage/logs/
+1 9
+http://www.edv-napetschnig.at/vendor/symfony/finder/Tests/
+1 9
+http://www.edv-napetschnig.at/vendor/nesbot/
+1 9
+http://www.edv-napetschnig.at/vendor/symfony/http-foundation/File/
+1 9
+http://www.edv-napetschnig.at/vendor/psr/
+1 9
+http://www.edv-napetschnig.at/vendor/phpunit/php-token-stream/
+1 14
+http://www.edv-napetschnig.at/vendor/symfony/console/Helper/
+1 20
+http://www.edv-napetschnig.at/resources/views/zb1/
+1 34
+http://www.edv-napetschnig.at/vendor/phpspec/prophecy/
+1 17
+http://www.edv-napetschnig.at/vendor/phpunit/php-file-iterator/
+1 12
+http://www.edv-napetschnig.at/vendor/symfony/console/Resources/
+1 5
+http://www.edv-napetschnig.at/vendor/sebastian/diff/src/
+1 10
+http://www.edv-napetschnig.at/vendor/swiftmailer/swiftmailer/lib/
+1 12
+http://www.edv-napetschnig.at/vendor/symfony/debug/Tests/
+1 13
+http://www.edv-napetschnig.at/vendor/phpdocumentor/reflection-docblock/tests/
+1 6
+http://www.edv-napetschnig.at/vendor/league/flysystem/docs/
+1 20
+http://www.edv-napetschnig.at/vendor/phpunit/php-text-template/src/
+1 5
+http://www.edv-napetschnig.at/vendor/sebastian/comparator/src/
+1 19
+http://www.edv-napetschnig.at/vendor/fzaninotto/faker/
+1 17
+http://www.edv-napetschnig.at/vendor/symfony/css-selector/
+1 18
+http://www.edv-napetschnig.at/vendor/jakub-onderka/php-console-color/
+1 14
+http://www.edv-napetschnig.at/vendor/laravel/tinker/
+1 11
+http://www.edv-napetschnig.at/vendor/symfony/
+1 21
+http://www.edv-napetschnig.at/vendor/sebastian/global-state/tests/
+1 7
+http://www.edv-napetschnig.at/vendor/symfony/http-foundation/
+1 36
+http://www.edv-napetschnig.at/vendor/psy/
+1 9
+http://www.edv-napetschnig.at/vendor/sebastian/resource-operations/src/
+1 5
+http://www.edv-napetschnig.at/vendor/symfony/event-dispatcher/Tests/
+1 12
+http://www.edv-napetschnig.at/vendor/doctrine/inflector/lib/
+1 5
+http://www.edv-napetschnig.at/vendor/phpunit/php-timer/src/
+1 5
+http://www.edv-napetschnig.at/vendor/phpunit/php-code-coverage/
+1 20
+http://www.edv-napetschnig.at/vendor/symfony/console/Output/
+1 11
+http://www.edv-napetschnig.at/vendor/monolog/monolog/src/
+1 5
+http://www.edv-napetschnig.at/vendor/phpunit/php-token-stream/src/
+1 6
+http://www.edv-napetschnig.at/vendor/nikic/php-parser/bin/
+1 5
+http://www.edv-napetschnig.at/vendor/symfony/event-dispatcher/
+1 22
+http://www.edv-napetschnig.at/vendor/sebastian/object-enumerator/tests/
+1 6
+http://www.edv-napetschnig.at/vendor/laravel/
+1 10
+http://www.edv-napetschnig.at/vendor/mockery/mockery/
+1 19
+http://www.edv-napetschnig.at/storage/framework/
+1 12
+http://www.edv-napetschnig.at/vendor/psr/log/
+1 11
+http://www.edv-napetschnig.at/app/Transformation/
+1 10
+http://www.edv-napetschnig.at/vendor/doctrine/inflector/
+1 13
+http://www.edv-napetschnig.at/vendor/phpdocumentor/type-resolver/src/
+1 8
+http://www.edv-napetschnig.at/vendor/mtdowling/cron-expression/tests/
+1 5
+http://www.edv-napetschnig.at/vendor/phpunit/phpunit-mock-objects/
+1 16
+http://www.edv-napetschnig.at/vendor/symfony/console/Tests/
+1 18
+http://www.edv-napetschnig.at/resources/views/
+1 10
+http://www.edv-napetschnig.at/vendor/psy/psysh/test/
+1 7
+http://www.edv-napetschnig.at/vendor/sebastian/environment/src/
+1 6
+http://www.edv-napetschnig.at/vendor/sebastian/diff/tests/
+1 11
+http://www.edv-napetschnig.at/vendor/sebastian/version/
+1 11
+http://www.creativecouncil.info/
+0 18
+http://www.edv-napetschnig.at/app/Http/Controllers/Auth/
+1 8
+http://www.edv-napetschnig.at/vendor/sebastian/object-enumerator/src/
+1 7
+http://www.edv-napetschnig.at/vendor/phpdocumentor/
+1 11
+http://www.edv-napetschnig.at/vendor/psy/psysh/
+1 15
+http://www.edv-napetschnig.at/vendor/sebastian/recursion-context/src/
+1 7
+http://www.edv-napetschnig.at/vendor/symfony/yaml/
+1 18
+http://www.edv-napetschnig.at/resources/assets/img/
+1 14
+http://www.edv-napetschnig.at/vendor/mockery/mockery/tests/
+1 6
+http://www.edv-napetschnig.at/vendor/myclabs/deep-copy/
+1 12
+http://www.edv-napetschnig.at/vendor/composer/
+1 17
+http://www.edv-napetschnig.at/vendor/sebastian/comparator/tests/
+1 20
+http://www.edv-napetschnig.at/vendor/mockery/mockery/library/
+1 6
+http://www.edv-napetschnig.at/vendor/webmozart/
+1 9
+http://www.edv-napetschnig.at/vendor/symfony/console/Formatter/
+1 9
+http://www.edv-napetschnig.at/vendor/sebastian/recursion-context/
+1 14
+http://www.edv-napetschnig.at/vendor/sebastian/global-state/
+1 14
+http://www.edv-napetschnig.at/vendor/symfony/translation/
+1 31
+http://www.edv-napetschnig.at/vendor/ramsey/uuid/src/
+1 17
+http://www.edv-napetschnig.at/vendor/symfony/console/
+1 31
+http://www.edv-napetschnig.at/database/factories/
+1 9
+http://www.edv-napetschnig.at/vendor/myclabs/deep-copy/doc/
+1 8
+http://www.edv-napetschnig.at/vendor/sebastian/environment/
+1 14
+http://www.edv-napetschnig.at/vendor/sebastian/exporter/
+1 14
+http://www.edv-napetschnig.at/resources/assets/
+1 15
+http://www.edv-napetschnig.at/bootstrap/cache/
+1 9
+http://www.edv-napetschnig.at/vendor/jakub-onderka/php-console-highlighter/
+1 15
+http://www.edv-napetschnig.at/vendor/phpunit/phpunit/tests/
+1 13
+http://www.edv-napetschnig.at/vendor/ramsey/
+1 9
+http://www.edv-napetschnig.at/vendor/symfony/css-selector/Node/
+1 16
+http://www.webwiki.at/www.edv-napetschnig.at
+1 2
+http://www.edv-napetschnig.at/vendor/paragonie/
+1 9
+http://edv-napetschnig.at/
+0 1
+http://www.edv-napetschnig.at/vendor/phpunit/phpunit/src/
+1 11
+http://www.edv-napetschnig.at/vendor/sebastian/code-unit-reverse-lookup/tests/
+1 5
+http://www.edv-napetschnig.at/vendor/hamcrest/hamcrest-php/
+1 15
+http://www.edv-napetschnig.at/vendor/doctrine/instantiator/tests/
+1 5
+http://www.edv-napetschnig.at/vendor/league/flysystem/
+1 12
+http://www.edv-napetschnig.at/routes/
+1 20
+http://www.edv-napetschnig.at/vendor/sebastian/code-unit-reverse-lookup/src/
+1 5
+http://www.edv-napetschnig.at/vendor/phpunit/phpunit/
+1 33
+http://www.edv-napetschnig.at/resources/assets/fonts/
+1 14
+http://www.edv-napetschnig.at/vendor/sebastian/object-enumerator/
+1 15
+http://www.edv-napetschnig.at/storage/
+1 18
+http://www.edv-napetschnig.at/vendor/mtdowling/cron-expression/src/
+1 5
+http://www.edv-napetschnig.at/database/seeds/
+1 9
+http://www.edv-napetschnig.at/vendor/phpdocumentor/type-resolver/tests/
+1 5
+http://www.edv-napetschnig.at/vendor/sebastian/code-unit-reverse-lookup/
+1 15
+http://www.edv-napetschnig.at/vendor/webmozart/assert/
+1 11
+http://www.edv-napetschnig.at/storage/framework/cache/
+1 8
+http://www.edv-napetschnig.at/vendor/psr/log/Psr/
+1 5
+http://www.edv-napetschnig.at/vendor/symfony/console/Exception/
+1 10
+http://www.edv-napetschnig.at/vendor/swiftmailer/
+1 9
+http://www.edv-napetschnig.at/vendor/hamcrest/hamcrest-php/tests/
+1 7
+http://www.edv-napetschnig.at/vendor/phpdocumentor/type-resolver/examples/
+1 11
+http://www.edv-napetschnig.at/vendor/symfony/finder/Iterator/
+1 17
+http://www.edv-napetschnig.at/database/migrations/
+1 10
+http://www.edv-napetschnig.at/app/Exceptions/
+1 9
+http://www.edv-napetschnig.at/vendor/sebastian/comparator/build/
+1 5
+http://www.edv-napetschnig.at/vendor/psy/psysh/bin/
+1 11
+http://www.edv-napetschnig.at/vendor/monolog/monolog/tests/
+1 5
+http://www.edv-napetschnig.at/vendor/jakub-onderka/php-console-highlighter/examples/
+1 7
+http://www.edv-napetschnig.at/app/Http/Controllers/
+1 10
+http://www.edv-napetschnig.at/vendor/monolog/
+1 9
+http://www.edv-napetschnig.at/vendor/nikic/php-parser/lib/
+1 6
+http://www.edv-napetschnig.at/app/Http/Middleware/
+1 12
+http://www.edv-napetschnig.at/vendor/paragonie/random_compat/
+1 16
+http://www.edv-napetschnig.at/vendor/phpdocumentor/reflection-common/tests/
+1 6
+http://www.edv-napetschnig.at/resources/assets/less/
+1 8
+http://www.edv-napetschnig.at/vendor/sebastian/version/src/
+1 5
+http://www.edv-napetschnig.at/vendor/nikic/php-parser/grammar/
+1 10
+http://www.edv-napetschnig.at/app/Http/
+1 11
+http://www.edv-napetschnig.at/vendor/nesbot/carbon/
+1 12
+http://www.edv-napetschnig.at/vendor/symfony/polyfill-mbstring/
+1 9
+http://www.edv-napetschnig.at/vendor/symfony/console/Question/
+1 7
+http://www.edv-napetschnig.at/vendor/sebastian/resource-operations/build/
+1 5
+http://www.edv-napetschnig.at/storage/app/
+1 9
+http://www.edv-napetschnig.at/vendor/sebastian/exporter/src/
+1 5
+http://www.edv-napetschnig.at/vendor/swiftmailer/swiftmailer/doc/
+1 16
+http://www.edv-napetschnig.at/vendor/symfony/debug/
+1 21
+http://www.edv-napetschnig.at/vendor/phpunit/php-text-template/
+1 11
+http://www.edv-napetschnig.at/vendor/mockery/mockery/docs/
+1 10
+http://www.edv-napetschnig.at/vendor/symfony/console/EventListener/
+1 5
+http://www.edv-napetschnig.at/vendor/symfony/console/Style/
+1 7
+http://www.edv-napetschnig.at/storage/framework/views/032292b4a79e57c4dd14a50f3927ef8acaf9e057.php
+1 1
+http://www.edv-napetschnig.at/vendor/symfony/css-selector/XPath/
+1 8
+http://www.edv-napetschnig.at/vendor/fzaninotto/faker/test/
+1 7
+http://www.edv-napetschnig.at/vendor/nikic/php-parser/
+1 21
+http://www.edv-napetschnig.at/vendor/phpspec/prophecy/fixtures/
+1 22
+http://www.edv-napetschnig.at/vendor/monolog/monolog/doc/
+1 9
+http://www.edv-napetschnig.at/vendor/symfony/process/
+1 18
+http://www.edv-napetschnig.at/vendor/phpspec/prophecy/src/
+1 5
+http://www.edv-napetschnig.at/vendor/phpunit/php-code-coverage/src/
+1 11
+http://www.edv-napetschnig.at/vendor/monolog/monolog/
+1 15
+http://www.edv-napetschnig.at/vendor/symfony/console/Event/
+1 9
+http://www.edv-napetschnig.at/vendor/hamcrest/hamcrest-php/hamcrest/
+1 6
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; rv:33.0) Gecko/20100101 Firefox/33.0
+0 2
+Mozilla/5.2 (Windows NT 6.1; WOW64) AppleWebKit/537.13 (KHTML, like Gecko) Safari/537.13
+0 6
+Mozilla/4.0 (compatible;)
+0 2
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:25.0) Gecko/20100101 Firefox/25.0
+0 41
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/534.50.2 (KHTML, like Gecko) Version/5.0.6 Safari/533.22.3
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 47
+Mozilla/5.0 (compatible, MSIE 11, Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko
+0 33
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0
+0 37
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+0 40
+Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/2.0; +http://go.mail.ru/help/robots)
+0 13
+Mozilla/5.0 (compatible; nsrbot/1.0; &#43;http://netsystemsresearch.com)
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:26.0) Gecko/20100101 Firefox/26.0
+0 42
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.68 Safari/537.36
+0 42
+Googlebot-Image/1.0
+0 10
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0
+0 46
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 36
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.375.99 Safari/533.4
+0 2
+Mozilla/5.0 (Windows NT 6.0; WOW64) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.91 Safari/534.30
+0 28
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 OPR/36.0.2130.3
+0 13
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0
+0 38
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko
+0 37
+Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CL
+0 2
+Mozilla/5.0 (Windows NT 5.1; rv:10.0) Gecko/20100101 Firefox/10.0
+0 1
+Opera/9.80 (Windows NT 6.1; U; ru) Presto/2.9.168 Version/11.51
+0 1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 41
+Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)
+0 22
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.59.10 (KHTML, like Gecko) Version/5.1.9 Safari/534.59.10
+0 34
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:25.0) Gecko/20100101 Firefox/25.0
+0 37
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+0 31
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.79 Safari/537.4
+0 1
+Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1; 125LA; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.5.21022)
+0 12
+Mozilla/5.0 (compatible; 007ac9 Crawler; http://crawler.007ac9.net/)
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:26.0) Gecko/20100101 Firefox/26.0
+0 31
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+0 96
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)
+0 38
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.1 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 41
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 44
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:27.0) Gecko/20100101 Firefox/27.0
+0 34
+Mozilla/5.0 (Windows NT 6.1; rv:26.0) Gecko/20100101 Firefox/26.0
+0 34
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 37
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+0 37
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3198.0 Safari/537.36 OPR/49.0.2711.0
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:26.0) Gecko/20100101 Firefox/26.0
+0 36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9) AppleWebKit/537.71 (KHTML, like Gecko) Version/7.0 Safari/537.71
+0 38
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 35
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:33.0) Gecko/20100101 Firefox/33.0
+0 34
+Mozilla/5.0 (Windows NT 6.2; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0
+0 41
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+0 32
+}__test|O:21:\"JDatabaseDriverMysqli\":3:{s:4:\"\\0\\0\\0a\";O:17:\"JSimplepieFactory\":0:{}s:21:\"\\0\\0\\0disconnectHandler
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 184
+Mozilla/5.0 (X11; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0
+0 46
+Mozilla/5.0 (Windows NT 6.0; rv:26.0) Gecko/20100101 Firefox/26.0
+0 27
+Mozilla/5.0 (Windows NT 6.1; rv:24.0) Gecko/20100101 Firefox/24.0
+0 38
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 19
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.71 (KHTML, like Gecko) Version/6.1 Safari/537.71
+0 37
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:26.0) Gecko/20100101 Firefox/26.0
+0 39
+Mozilla/5.0 (Windows NT 6.1; rv:34.0) Gecko/20100101 Firefox/34.0
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:31.0) Gecko/20100101 Firefox/31.0
+0 42
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:26.0) Gecko/20100101 Firefox/26.0
+0 49
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; MRSPUTNIK 2, 4, 0, 460; GTB7.2; .NET CLR 2.0.50727; .NET CLR 
+0 1
+Mozilla/5.0 (Windows NT 5.1; rv:25.0) Gecko/20100101 Firefox/25.0
+0 35
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:27.3) Gecko/20100101 Firefox/27.3
+0 26
+Mozilla/5.0 (compatible; AhrefsBot/5.2; +http://ahrefs.com/robot/)
+0 40
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:41.0) Gecko/20100101 Firefox/41.0
+0 3
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Iron/5.0.381.0 Chrome/5.0.381 Safari/53
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.71 (KHTML, like Gecko) Version/6.1 Safari/537.71
+0 51
+Mozilla/5.0 (compatible;WI Job Roboter Spider Version 3;+http://www.webintegration.at)
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_1) AppleWebKit/537.73.11 (KHTML, like Gecko) Version/7.0.1 Safari/537.73.11
+0 39
+BacklinkCrawler (http://www.backlinktest.com/crawler.html)
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:26.0) Gecko/20100101 Firefox/26.0
+0 43
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/536.28.10 (KHTML, like Gecko) Version/6.0.3 Safari/536.28.10
+0 2
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/536.30.1 (KHTML, like Gecko) Version/6.0.5 Safari/536.30.1
+0 27
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 46
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.73.11 (KHTML, like Gecko) Version/6.1.1 Safari/537.73.11
+0 41
+Mozilla/5.0 (compatible; at-bot/1.0; +https://crawler.labs.nic.at)
+0 7
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0
+0 28
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+0 3
+Mozilla/6.0 (compatible)
+0 42
+Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+0 35
+Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 25
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36
+0 33
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.41 Safari/537.36
+0 40
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 42
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 11
+Mozilla/5.0 (compatible; SeznamBot/3.2; +http://napoveda.seznam.cz/en/seznambot-intro/)
+0 6
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+0 41
+User-Agent:Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.63 Safari/535.7 YE
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.72 Safari/537.36
+0 53
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:26.0) Gecko/20100101 Firefox/26.0
+0 50
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/31.0.1650.63 Chrome/31.0.1650.63 Safar
+0 30
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 8
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0
+0 39
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+0 47
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.30 (KHTML, like Gecko) Slackware/Chrome/12.0.742.100 Safari/534.30
+0 999
+Mozilla/5.0 (compatible;WI Job Roboter Spider Version 3;+https://www.webintegration.at)
+0 132
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.73.11 (KHTML, like Gecko) Version/6.1.1 Safari/537.73.11
+0 32
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+0 37
+Mozilla/5.0 (compatible; MetaJobBot; http://www.metajob.at/crawler)
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0
+0 37
+Mozilla/5.0 (compatible; SEOkicks; +https://www.seokicks.de/robot.html)
+0 11
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36
+0 10
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.72 Safari/537.36
+0 45
+Opera/9.80 (Windows NT 6.1; U; MRA 5.9 (build 4953); ru) Presto/2.10.229 Version/11.61
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 3
+Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9) Gecko/2008052906 Firefox/3.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:25.0) Gecko/20100101 Firefox/25.0
+0 36
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; Trident/4.0; MRSPUTNIK 2, 4, 0, 270; GTB7.2; SLCC2; .NET CLR 2.0.50727; .N
+0 1
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 37
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:59.0) Gecko/20100101 Firefox/59.0
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.1
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36
+0 40
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+0 36
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; MRSPUTNIK 2, 4, 0, 432; GTB7.2; SLCC2; .NET CLR 2.0.50727; .N
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 45
+libwww-perl/6.08
+0 2
+Mozilla/5.0 (compatible)
+0 43
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36 Edge/15.1
+0 11
+Mozilla/5.0 (Windows NT 6.1; rv:25.0) Gecko/20100101 Firefox/25.0
+0 47
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.3 Safari/534.24
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/56.0.2924.76 Chrome/56.0.2924.76 Safar
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 41
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 34
+Mozilla/5.0 (Windows NT 6.2; Win64; x64; rv:36.0) Gecko/20100101 Firefox/36.0
+0 49
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36
+0 28
+Mozilla/5.0 (Windows NT 5.1; rv:26.0) Gecko/20100101 Firefox/26.0
+0 38
+Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; WOW64; Trident/6.0)
+0 42
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+0 4
+Mozilla/5.0 (compatible; adscanner/)
+0 4
+python-requests/2.19.1
+0 7
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 45
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.63 Safari/537.36
+0 31
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

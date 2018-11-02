@@ -1,0 +1,8 @@
+AuthUserFile /home/sites/www.edv-napetschnig.at/web/.htpasswd
+AuthGroupFile /home/sites/www.edv-napetschnig.at/web/.group
+AuthName Admin
+AuthType Basic
+
+
+require user  stats
+

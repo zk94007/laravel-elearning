@@ -1,0 +1,27 @@
+Installationsanleitung:
+
+Die Basis des ZB1 OnlineTests ist das Laravel Framework: https://laravel.com/
+Das WebRoot des Webserver muss dementsprechend in den Ordner /public/  gelegt werden und AllowOverride (Apache) gesetzt sein.
+Wie bei jedem MVC Framework wird auch hier jeder request (außer css,images,js) über /public/index.php geführt.
+Mod_rewrite muss aktiviert sein siehe /public/.hhtaccess
+
+Erweiterte Erklärung zu Dateien und Ordnern:
+
+Als Templating Engine wird blade verwendet, alle Templates sind unter: /resources/views/*.blade.php zu finden
+https://laravel.com/docs/5.6/blade
+Wobei sich das Rahmenlayout in start.blade.php befindet, alle weiteren Contentelemente werden dann per ajax call in das Rahmenlayout geladen (loadQuestion('zb1',n));
+Die Nummerierung folgt der Reihenfolge wie die einzelnen Aufgabenseiten aufgerufen werden von 0 bis 16.
+Das Routing http://hostname/zb/0 wird durch die Trivialität der Anwendung nur über einen einzigen Controller geführt (siehe /routes/web.php)
+
+Konfigurationsdateien und Statistikfiles befinden sich in /storage/app/public/:
+results.csv beinhalten die Zuordnung der korrekten Antworten zu den einzelnen Aufgaben im CSV Format
+statistics.csv beinhaltet die einzelnen Gesamtergebnisse nach Modul gegliedert(l lesen, h hören).
+
+
+
+
+
+
+
+
+
